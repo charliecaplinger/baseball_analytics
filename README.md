@@ -40,7 +40,7 @@ Data was collected using the `pybaseball` library:
 Seasons analyzed include:
 
 - 2019, 2021, 2022, 2023, 2024, 2025 (St. Louis Cardinals trends)  
-- League-wide WAR analysis for 2022 and 2025  
+- League-wide WAR analysis for 2022 and 2025 (High Win year vs Low Win year) 
 
 ---
 
