@@ -26,7 +26,6 @@ Data is sourced using the `pybaseball` library and processed using Python for an
 - Evaluate the relationship between **run differential and wins**  
 - Compare team performance using **WAR across the league**  
 - Identify how elite teams compare to league averages
-- Regression analysis shows a strong positive relationship between run differential and total wins, reinforcing run differential as a predictive performance metric. 
 
 ---
 
@@ -122,6 +121,7 @@ These visualizations highlight how performance evolves and how teams compare acr
 - **WAR is an effective metric** for evaluating overall team strength  
 - Elite teams (e.g., Dodgers, Yankees) consistently outperform league averages  
 - Team success is driven by a **balance of offensive and pitching contributions**
+- Regression analysis shows a strong positive relationship between run differential and total wins, reinforcing run differential as a predictive performance metric.
 
 ---
 
@@ -140,7 +140,9 @@ These visualizations highlight how performance evolves and how teams compare acr
 
 - data/ - datasets
 - python/ - python analysis scripts
-- plots/ - matplotlib plots 
+- plots/ - matplotlib plots
+- tableau/ - MLB Team Performance & WAR Analysis.twbx
+- visualizations - MLB Team Performance & WAR Analysis.png 
 
 ---
 
