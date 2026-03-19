@@ -137,7 +137,9 @@ These visualizations highlight how performance evolves and how teams compare acr
 
 ## Project Structure
 
-
+data/ - datasets
+python/ - python analysis scripts
+plots/ - matlib plots 
 
 ---
 
