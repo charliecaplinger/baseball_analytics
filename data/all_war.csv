@@ -1,0 +1,3092 @@
+,Season,Name,Team,WAR
+6,2022,Aaron Judge,NYY,11.1
+26,2022,Nolan Arenado,STL,7.2
+23,2022,Manny Machado,SDP,7.1
+17,2022,Jose Altuve,HOU,6.9
+13,2022,Paul Goldschmidt,STL,6.8
+21,2022,Freddie Freeman,LAD,6.8
+71,2022,J.T. Realmuto,PHI,6.7
+123,2022,Dansby Swanson,ATL,6.6
+10,2022,Yordan Alvarez,HOU,6.4
+81,2022,Trea Turner,LAD,6.4
+115,2022,Francisco Lindor,NYM,6.4
+54,2022,Andres Gimenez,CLE,6.1
+14,2022,Mike Trout,LAA,6.0
+30,2022,Mookie Betts,LAD,6.0
+58,2022,Jose Ramirez,CLE,6.0
+57,2022,Xander Bogaerts,BOS,6.0
+28,2022,Austin Riley,ATL,5.9
+47,2022,Julio Rodriguez,SEA,5.7
+72,2022,Adley Rutschman,BAL,5.6
+50,2022,Jeff McNeil,NYM,5.5
+74,2022,Brandon Nimmo,NYM,5.5
+64,2022,Alex Bregman,HOU,5.4
+199,2022,Tommy Edman,STL,5.4
+140,2022,Sean Murphy,OAK,5.2
+32,2022,Rafael Devers,BOS,5.0
+90,2022,Kyle Tucker,HOU,4.9
+91,2022,Bo Bichette,TOR,4.8
+46,2022,Michael Harris II,ATL,4.7
+116,2022,Steven Kwan,CLE,4.7
+59,2022,Carlos Correa,MIN,4.6
+165,2022,Willy Adames,MIL,4.4
+201,2022,Marcus Semien,TEX,4.4
+87,2022,Will Smith,LAD,4.3
+99,2022,Eugenio Suarez,SEA,4.3
+93,2022,Alejandro Kirk,TOR,4.3
+141,2022,Corey Seager,TEX,4.3
+177,2022,Daulton Varsho,ARI,4.3
+190,2022,Nico Hoerner,CHC,4.3
+145,2022,Cal Raleigh,SEA,4.2
+77,2022,George Springer,TOR,4.0
+48,2022,Yandy Diaz,TBR,3.9
+95,2022,Christian Walker,ARI,3.9
+107,2022,Travis d'Arnaud,ATL,3.9
+142,2022,Matt Chapman,TOR,3.9
+49,2022,Pete Alonso,NYM,3.8
+61,2022,Jose Abreu,CHW,3.8
+332,2022,Jose Trevino,NYY,3.8
+29,2022,Juan Soto,- - -,3.7
+60,2022,Taylor Ward,LAA,3.7
+118,2022,Ian Happ,CHC,3.7
+211,2022,Cedric Mullins,BAL,3.7
+42,2022,Shohei Ohtani,LAA,3.6
+196,2022,Jake Cronenworth,SDP,3.6
+229,2022,Ha-seong Kim,SDP,3.6
+66,2022,Willson Contreras,CHC,3.5
+68,2022,Starling Marte,NYM,3.5
+67,2022,Byron Buxton,MIN,3.4
+245,2022,Elvis Andrus,- - -,3.4
+79,2022,Vladimir Guerrero Jr.,TOR,3.3
+248,2022,Jeremy Pena,HOU,3.3
+166,2022,Adolis Garcia,TEX,3.2
+45,2022,Nathaniel Lowe,TEX,3.1
+82,2022,Brandon Drury,- - -,3.1
+102,2022,Matt Olson,ATL,3.1
+162,2022,Ryan McMahon,COL,3.1
+146,2022,DJ LeMahieu,NYY,3.1
+240,2022,Amed Rosario,CLE,3.1
+322,2022,Ke'Bryan Hayes,PIT,3.1
+89,2022,Teoscar Hernandez,TOR,3.0
+85,2022,Bryan Reynolds,PIT,2.9
+200,2022,Thairo Estrada,SFG,2.8
+387,2022,Jorge Mateo,BAL,2.8
+56,2022,Danny Jansen,TOR,2.7
+83,2022,Luis Arraez,MIN,2.7
+129,2022,Randy Arozarena,TBR,2.7
+150,2022,Gavin Lux,LAD,2.7
+269,2022,Jonah Heim,TEX,2.7
+44,2022,Bryce Harper,PHI,2.6
+112,2022,Lars Nootbaar,STL,2.6
+124,2022,Ty France,SEA,2.6
+86,2022,Brendan Donovan,STL,2.6
+137,2022,Gio Urshela,MIN,2.6
+149,2022,Gleyber Torres,NYY,2.6
+227,2022,Ramon Urias,BAL,2.6
+51,2022,Jazz Chisholm Jr.,MIA,2.5
+76,2022,Anthony Rizzo,NYY,2.5
+106,2022,Mark Canha,NYM,2.5
+161,2022,Josh Rojas,ARI,2.5
+206,2022,Trevor Story,BOS,2.5
+187,2022,Jurickson Profar,SDP,2.5
+5,2022,Matt Carpenter,NYY,2.4
+31,2022,Joc Pederson,SFG,2.4
+94,2022,Hunter Renfroe,MIL,2.4
+96,2022,Rhys Hoskins,PHI,2.4
+130,2022,Ronald Acuna Jr.,ATL,2.4
+174,2022,Isaac Paredes,TBR,2.4
+155,2022,Luis Urias,MIL,2.4
+159,2022,Chas McCormick,HOU,2.4
+271,2022,Santiago Espinal,TOR,2.4
+37,2022,Trayce Thompson,- - -,2.3
+110,2022,Justin Turner,LAD,2.3
+128,2022,Anthony Santander,BAL,2.3
+127,2022,Kolten Wong,MIL,2.3
+169,2022,Wander Franco,TBR,2.3
+241,2022,Bobby Witt Jr.,KCR,2.3
+70,2022,Kyle Schwarber,PHI,2.2
+125,2022,Jake McCarthy,ARI,2.2
+151,2022,Christian Yelich,MIL,2.2
+176,2022,Tim Anderson,CHW,2.2
+268,2022,J.P. Crawford,SEA,2.2
+303,2022,Jon Berti,MIA,2.2
+105,2022,Josh Bell,- - -,2.1
+100,2022,Austin Slater,SFG,2.1
+167,2022,Luis Robert Jr.,CHW,2.1
+218,2022,Tyrone Taylor,MIL,2.1
+189,2022,Jean Segura,PHI,2.1
+267,2022,Jace Peterson,MIL,2.1
+27,2022,Albert Pujols,STL,2.0
+38,2022,William Contreras,ATL,2.0
+113,2022,Andrew Benintendi,- - -,2.0
+132,2022,Seiya Suzuki,CHC,2.0
+121,2022,Dylan Moore,SEA,2.0
+170,2022,Seby Zavala,CHW,2.0
+198,2022,Max Muncy,LAD,2.0
+339,2022,Javier Baez,DET,2.0
+346,2022,Brandon Crawford,SFG,2.0
+139,2022,Josh Naylor,CLE,1.9
+237,2022,Eduardo Escobar,NYM,1.9
+233,2022,Christian Vazquez,- - -,1.9
+264,2022,Dylan Carlson,STL,1.9
+184,2022,Brendan Rodgers,COL,1.8
+202,2022,Ketel Marte,ARI,1.8
+219,2022,Austin Hays,BAL,1.8
+235,2022,Luis Guillorme,NYM,1.8
+312,2022,Michael A. Taylor,KCR,1.8
+439,2022,Jose Siri,- - -,1.8
+18,2022,Joey Meneses,WSN,1.7
+136,2022,Jorge Polanco,MIN,1.7
+183,2022,Nick Gordon,MIN,1.7
+178,2022,Christopher Morel,CHC,1.7
+214,2022,David Peralta,- - -,1.7
+207,2022,Ryan Mountcastle,BAL,1.7
+224,2022,Luis Rengifo,LAA,1.7
+298,2022,Christian Bethancourt,- - -,1.7
+304,2022,Chris Taylor,LAD,1.7
+394,2022,Trent Grisham,SDP,1.7
+40,2022,Eloy Jimenez,CHW,1.6
+295,2022,Josh Donaldson,NYY,1.6
+302,2022,Max Kepler,MIN,1.6
+381,2022,Kyle Higashioka,NYY,1.6
+36,2022,Tyler Stephenson,CIN,1.5
+171,2022,Seth Brown,OAK,1.5
+156,2022,Lourdes Gurriel Jr.,TOR,1.5
+250,2022,Kyle Farmer,CIN,1.5
+259,2022,Tyler O'Neill,STL,1.5
+262,2022,Mike Yastrzemski,SFG,1.5
+273,2022,Josh Harrison,CHW,1.5
+301,2022,Keibert Ruiz,WSN,1.5
+373,2022,Cody Bellinger,LAD,1.5
+347,2022,Victor Caratini,MIL,1.5
+368,2022,Isiah Kiner-Falefa,NYY,1.5
+489,2022,Myles Straw,CLE,1.5
+52,2022,Vinnie Pasquantino,KCR,1.4
+65,2022,Corbin Carroll,ARI,1.4
+84,2022,Daniel Vogelbach,- - -,1.4
+109,2022,J.D. Martinez,BOS,1.4
+117,2022,Oscar Gonzalez,CLE,1.4
+131,2022,C.J. Cron,COL,1.4
+144,2022,Evan Longoria,SFG,1.4
+148,2022,Jose Miranda,MIN,1.4
+186,2022,Oneil Cruz,PIT,1.4
+188,2022,Sam Haggerty,SEA,1.4
+246,2022,Alec Bohm,PHI,1.4
+257,2022,Lane Thomas,WSN,1.4
+294,2022,Ildemaro Vargas,- - -,1.4
+317,2022,Brandon Marsh,- - -,1.4
+315,2022,Reese McGuire,- - -,1.4
+342,2022,Gary Sanchez,MIN,1.4
+358,2022,Harrison Bader,- - -,1.4
+351,2022,Tony Kemp,OAK,1.4
+452,2022,Tomas Nido,NYM,1.4
+152,2022,Harold Ramirez,TBR,1.3
+180,2022,Oswaldo Cabrera,NYY,1.3
+231,2022,Wilmer Flores,SFG,1.3
+234,2022,Jose Iglesias,COL,1.3
+213,2022,Austin Barnes,LAD,1.3
+253,2022,Manuel Margot,TBR,1.3
+255,2022,Nick Fortes,MIA,1.3
+323,2022,Whit Merrifield,- - -,1.3
+293,2022,Cavan Biggio,TOR,1.3
+345,2022,Bryson Stott,PHI,1.3
+384,2022,Edmundo Sosa,- - -,1.3
+425,2022,Adam Frazier,SEA,1.3
+437,2022,Omar Narvaez,MIL,1.3
+525,2022,Jonathan Schoop,DET,1.3
+134,2022,J.D. Davis,- - -,1.2
+143,2022,Garrett Cooper,MIA,1.2
+179,2022,Eric Haase,DET,1.2
+205,2022,Patrick Wisdom,CHC,1.2
+242,2022,Wil Myers,SDP,1.2
+239,2022,Jack Suwinski,PIT,1.2
+265,2022,Emmanuel Rivera,- - -,1.2
+288,2022,Kevin Newman,PIT,1.2
+314,2022,Leody Taveras,TEX,1.2
+98,2022,Michael Brantley,HOU,1.1
+154,2022,Giancarlo Stanton,NYY,1.1
+192,2022,Alex Verdugo,BOS,1.1
+276,2022,Ozzie Albies,ATL,1.1
+348,2022,Joey Wendle,MIA,1.1
+440,2022,Miguel Rojas,MIA,1.1
+25,2022,Rob Refsnyder,BOS,1.0
+153,2022,Rowdy Tellez,MIL,1.0
+181,2022,Ji-Man Choi,TBR,1.0
+232,2022,Trey Mancini,- - -,1.0
+285,2022,Riley Greene,DET,1.0
+360,2022,Kevin Kiermaier,TBR,1.0
+15,2022,Sean Bouchard,COL,0.9
+103,2022,David Villar,SFG,0.9
+193,2022,Mitch Haniger,SEA,0.9
+173,2022,Yonathan Daza,COL,0.9
+209,2022,Rodolfo Castro,PIT,0.9
+221,2022,Anthony Rendon,LAA,0.9
+254,2022,Carlos Santana,- - -,0.9
+334,2022,Aaron Hicks,NYY,0.9
+396,2022,Zach McKinstry,- - -,0.9
+434,2022,Yan Gomes,CHC,0.9
+508,2022,Nicky Lopez,KCR,0.9
+53,2022,Garrett Mitchell,MIL,0.8
+78,2022,Jake Fraley,CIN,0.8
+97,2022,Vaughn Grissom,ATL,0.8
+108,2022,Gunnar Henderson,BAL,0.8
+104,2022,Danny Mendick,CHW,0.8
+168,2022,Salvador Perez,KCR,0.8
+163,2022,Gabriel Moreno,TOR,0.8
+225,2022,Nate Eaton,KCR,0.8
+297,2022,Aledmys Diaz,HOU,0.8
+230,2022,Jesse Winker,SEA,0.8
+320,2022,Adam Duvall,ATL,0.8
+365,2022,Willi Castro,DET,0.8
+352,2022,Ryan Jeffers,MIN,0.8
+420,2022,Yoan Moncada,CHW,0.8
+419,2022,David Fletcher,LAA,0.8
+429,2022,Alek Thomas,ARI,0.8
+454,2022,Martin Maldonado,HOU,0.8
+11,2022,Livan Soto,LAA,0.7
+69,2022,Garrett Stubbs,PHI,0.7
+133,2022,Keston Hiura,MIL,0.7
+172,2022,TJ Friedl,CIN,0.7
+185,2022,Orlando Arcia,ATL,0.7
+251,2022,Trevor Larnach,MIN,0.7
+275,2022,Rafael Ortega,CHC,0.7
+279,2022,Tommy Pham,- - -,0.7
+355,2022,Owen Miller,CLE,0.7
+386,2022,Luke Maile,CLE,0.7
+518,2022,Tyler Heineman,- - -,0.7
+35,2022,Conner Capel,- - -,0.6
+41,2022,Kris Bryant,COL,0.6
+34,2022,Oswald Peraza,NYY,0.6
+73,2022,Mark Mathias,- - -,0.6
+119,2022,Mike Brosseau,MIL,0.6
+197,2022,Charles Leblanc,MIA,0.6
+228,2022,Eric Hosmer,- - -,0.6
+216,2022,Roberto Perez,PIT,0.6
+249,2022,Andrew McCutchen,MIL,0.6
+286,2022,Corey Dickerson,STL,0.6
+266,2022,Brandon Lowe,TBR,0.6
+310,2022,A.J. Pollock,CHW,0.6
+309,2022,Austin Wynns,SFG,0.6
+327,2022,Ramon Laureano,OAK,0.6
+402,2022,Ryan McKenna,BAL,0.6
+410,2022,Jose Azocar,SDP,0.6
+421,2022,Carson Kelly,ARI,0.6
+462,2022,Brian Serven,COL,0.6
+406,2022,Jonathan Davis,MIL,0.6
+474,2022,Eli White,TEX,0.6
+16,2022,Tom Murphy,SEA,0.5
+39,2022,Royce Lewis,MIN,0.5
+55,2022,Nick Maton,PHI,0.5
+63,2022,Stone Garrett,ARI,0.5
+88,2022,Jason Vosler,SFG,0.5
+111,2022,Darick Hall,PHI,0.5
+80,2022,Stuart Fairchild,- - -,0.5
+114,2022,Kerry Carpenter,DET,0.5
+138,2022,Alex Call,- - -,0.5
+164,2022,David Bote,CHC,0.5
+226,2022,Bryan De La Cruz,MIA,0.5
+194,2022,Donovan Solano,CIN,0.5
+215,2022,Randal Grichuk,COL,0.5
+280,2022,Tyler Naquin,- - -,0.5
+292,2022,Luis Gonzalez,SFG,0.5
+305,2022,Jesus Sanchez,MIA,0.5
+333,2022,Raimel Tapia,TOR,0.5
+354,2022,Odubel Herrera,PHI,0.5
+321,2022,Curt Casali,- - -,0.5
+404,2022,Albert Almora Jr.,CIN,0.5
+380,2022,Cesar Hernandez,WSN,0.5
+451,2022,Kyle Isbel,KCR,0.5
+529,2022,Nick Allen,OAK,0.5
+4,2022,James Outman,LAD,0.4
+22,2022,Will Brennan,CLE,0.4
+92,2022,Drew Waters,KCR,0.4
+101,2022,Triston Casas,BOS,0.4
+158,2022,Jake Burger,CHW,0.4
+182,2022,Alan Trejo,COL,0.4
+236,2022,Luke Voit,- - -,0.4
+274,2022,Jorge Soler,MIA,0.4
+300,2022,Taylor Trammell,SEA,0.4
+340,2022,Jorge Alfaro,SDP,0.4
+378,2022,Jake Marisnick,PIT,0.4
+324,2022,Joey Bart,SFG,0.4
+331,2022,Matt Reynolds,- - -,0.4
+408,2022,Jake Cave,MIN,0.4
+390,2022,Jordan Luplow,ARI,0.4
+476,2022,Victor Robles,WSN,0.4
+486,2022,Jake Meyers,HOU,0.4
+493,2022,Meibrys Viloria,TEX,0.4
+8,2022,David Hensley,HOU,0.3
+9,2022,Dalton Guthrie,PHI,0.3
+43,2022,Ji Hwan Bae,PIT,0.3
+195,2022,Christian Arroyo,BOS,0.3
+290,2022,Nick Ahmed,ARI,0.3
+223,2022,Connor Joe,COL,0.3
+263,2022,P.J. Higgins,CHC,0.3
+318,2022,Sam Huff,TEX,0.3
+401,2022,Francisco Mejia,TBR,0.3
+405,2022,Rougned Odor,BAL,0.3
+397,2022,Enrique Hernandez,BOS,0.3
+399,2022,Gilberto Celestino,MIN,0.3
+426,2022,Yu Chang,- - -,0.3
+442,2022,Nick Madrigal,CHC,0.3
+490,2022,Marwin Gonzalez,NYY,0.3
+498,2022,Tucker Barnhart,DET,0.3
+499,2022,Geraldo Perdomo,ARI,0.3
+1,2022,Chadwick Tromp,ATL,0.2
+7,2022,Joe Dunand,MIA,0.2
+62,2022,Monte Harrison,LAA,0.2
+75,2022,Jaylin Davis,BOS,0.2
+160,2022,Edward Olivares,KCR,0.2
+203,2022,Charlie Blackmon,COL,0.2
+204,2022,Kyle Stowers,BAL,0.2
+212,2022,Yadiel Hernandez,WSN,0.2
+256,2022,Gavin Sheets,CHW,0.2
+222,2022,Jonathan India,CIN,0.2
+283,2022,Luis Garcia Jr.,WSN,0.2
+252,2022,Mitch Garver,TEX,0.2
+287,2022,Elehuris Montero,COL,0.2
+291,2022,Michael Massey,KCR,0.2
+313,2022,Nolan Jones,CLE,0.2
+311,2022,Nomar Mazara,SDP,0.2
+336,2022,Nelson Velazquez,CHC,0.2
+330,2022,Brian Anderson,MIA,0.2
+367,2022,Dermis Garcia,OAK,0.2
+343,2022,Austin Nola,SDP,0.2
+369,2022,Matt Vierling,PHI,0.2
+289,2022,Esteban Quiroz,CHC,0.2
+383,2022,Ezequiel Duran,TEX,0.2
+392,2022,Luis Barrera,OAK,0.2
+416,2022,Johan Camargo,PHI,0.2
+423,2022,Bubba Thompson,TEX,0.2
+445,2022,Aristides Aquino,CIN,0.2
+447,2022,Roman Quinn,- - -,0.2
+519,2022,Mauricio Dubon,- - -,0.2
+538,2022,Richie Martin,BAL,0.2
+532,2022,Jason Delay,PIT,0.2
+549,2022,Yadier Molina,STL,0.2
+581,2022,Ryan Kreidler,DET,0.2
+3,2022,Otto Lopez,TOR,0.1
+20,2022,Liover Peguero,PIT,0.1
+33,2022,Austin Dean,SFG,0.1
+122,2022,Edwin Rios,LAD,0.1
+126,2022,Francisco Alvarez,NYM,0.1
+147,2022,Jared Young,CHC,0.1
+208,2022,Nolan Gorman,STL,0.1
+238,2022,Kyle Garlick,MIN,0.1
+210,2022,Maikel Garcia,KCR,0.1
+243,2022,Matt Wallner,MIN,0.1
+258,2022,Ben Gamel,PIT,0.1
+135,2022,Gosuke Katoh,TOR,0.1
+299,2022,Colin Moran,CIN,0.1
+281,2022,Terrin Vavra,BAL,0.1
+307,2022,LaMonte Wade Jr.,SFG,0.1
+393,2022,Josh Jung,TEX,0.1
+415,2022,Josh Lowe,TBR,0.1
+432,2022,Buddy Kennedy,ARI,0.1
+450,2022,Luke Williams,- - -,0.1
+469,2022,Skye Bolt,OAK,0.1
+516,2022,Rene Pinto,TBR,0.1
+510,2022,Derek Hill,DET,0.1
+543,2022,Andrew Velazquez,LAA,0.1
+531,2022,James McCann,NYM,0.1
+533,2022,Ben DeLuzio,STL,0.1
+587,2022,Brett Phillips,- - -,0.1
+0,2022,Khalil Lee,NYM,0.0
+2,2022,Evan Phillips,LAD,0.0
+12,2022,Rob Brantly,NYY,0.0
+19,2022,Brian O'Keefe,SEA,0.0
+120,2022,Dustin Garneau,DET,0.0
+191,2022,Juan Yepez,STL,0.0
+220,2022,Jake Lamb,- - -,0.0
+319,2022,Shea Langeliers,OAK,0.0
+329,2022,Mark Kolozsvary,CIN,0.0
+344,2022,Lewis Brinson,SFG,0.0
+282,2022,Brandon Belt,SFG,0.0
+284,2022,Pedro Severino,MIL,0.0
+261,2022,Logan O'Hoppe,LAA,0.0
+374,2022,Victor Reyes,DET,0.0
+217,2022,Mario Feliciano,MIL,0.0
+362,2022,Alejo Lopez,CIN,0.0
+363,2022,Joey Gallo,- - -,0.0
+413,2022,Jeimer Candelario,DET,0.0
+175,2022,Vinny Capra,TOR,0.0
+341,2022,Jake Hager,ARI,0.0
+376,2022,Robbie Grossman,- - -,0.0
+403,2022,Matt Duffy,LAA,0.0
+438,2022,Sergio Alcantara,- - -,0.0
+455,2022,Romy Gonzalez,CHW,0.0
+418,2022,Andrew Knizner,STL,0.0
+424,2022,Tyler Freeman,CLE,0.0
+453,2022,Cam Gallagher,KCR,0.0
+545,2022,Narciso Crook,CHC,0.0
+468,2022,Wynton Bernard,COL,0.0
+479,2022,Tim Locastro,NYY,0.0
+463,2022,Connor Wong,BOS,0.0
+433,2022,Luke Raley,TBR,0.0
+456,2022,Pablo Reyes,MIL,0.0
+435,2022,Adam Haseley,CHW,0.0
+500,2022,Dairon Blanco,KCR,0.0
+379,2022,Grayson Greiner,ARI,0.0
+465,2022,Marcus Wilson,SEA,0.0
+466,2022,Eguy Rosario,SDP,0.0
+535,2022,Greg Allen,PIT,0.0
+536,2022,Paul DeJong,STL,0.0
+560,2022,Kevin Smith,OAK,0.0
+568,2022,Patrick Mazeika,NYM,0.0
+573,2022,Alex Jackson,MIL,0.0
+574,2022,JT Riddle,CIN,0.0
+583,2022,Brandon Dixon,SDP,0.0
+542,2022,Dixon Machado,SFG,0.0
+561,2022,Austin Hedges,CLE,0.0
+537,2022,Payton Henry,MIA,0.0
+618,2022,Mark Contreras,MIN,0.0
+559,2022,Jason Krizan,SFG,0.0
+614,2022,Matthew Batten,SDP,0.0
+586,2022,Dillon Thomas,LAA,0.0
+636,2022,Adalberto Mondesi,KCR,0.0
+553,2022,Nate Mondou,OAK,0.0
+554,2022,Mickey McDonald,OAK,0.0
+643,2022,Kevin Pillar,LAD,0.0
+656,2022,Terrance Gore,NYM,0.0
+631,2022,Donny Sands,PHI,0.0
+668,2022,David Robertson,- - -,0.0
+671,2022,Tyler Anderson,LAD,0.0
+678,2022,Jose Alvarado,PHI,0.0
+679,2022,Drew Jackson,OAK,0.0
+680,2022,Ka'ai Tom,SFG,0.0
+682,2022,Yusniel Diaz,BAL,0.0
+683,2022,Taylor Jones,HOU,0.0
+685,2022,Reiver Sanmartin,CIN,0.0
+689,2022,Jack Larsen,SEA,0.0
+692,2022,Joe Perez,HOU,0.0
+24,2022,Canaan Smith-Njigba,PIT,-0.1
+270,2022,Abraham Almonte,BOS,-0.1
+328,2022,Pavin Smith,ARI,-0.1
+377,2022,Yairo Munoz,PHI,-0.1
+272,2022,Jackson Frazier,CHC,-0.1
+366,2022,Michael Toglia,COL,-0.1
+375,2022,Jarren Duran,BOS,-0.1
+337,2022,Nick Solak,TEX,-0.1
+356,2022,Spencer Steer,CIN,-0.1
+400,2022,Daz Cameron,DET,-0.1
+370,2022,Alfonso Rivas,CHC,-0.1
+409,2022,Jordan Groshans,MIA,-0.1
+487,2022,Luis Campusano,SDP,-0.1
+477,2022,Brett Baty,NYM,-0.1
+457,2022,Cody Thomas,OAK,-0.1
+492,2022,Adam Engel,CHW,-0.1
+517,2022,Nick Plummer,NYM,-0.1
+482,2022,Max Stassi,LAA,-0.1
+467,2022,Josh Smith,TEX,-0.1
+546,2022,Carlos Perez,CHW,-0.1
+488,2022,Jonah Bride,OAK,-0.1
+548,2022,Jerar Encarnacion,MIA,-0.1
+541,2022,Michael Stefanic,LAA,-0.1
+572,2022,Anthony Alford,PIT,-0.1
+558,2022,Erik Gonzalez,MIA,-0.1
+563,2022,Cal Stevenson,OAK,-0.1
+567,2022,Brendon Davis,DET,-0.1
+585,2022,Steele Walker,TEX,-0.1
+582,2022,Yainer Diaz,HOU,-0.1
+605,2022,Ford Proctor,SFG,-0.1
+570,2022,Travis Jankowski,- - -,-0.1
+584,2022,Mark Payton,CHW,-0.1
+601,2022,Simon Muzziotti,PHI,-0.1
+620,2022,Manny Pina,ATL,-0.1
+629,2022,Sebastian Rivero,KCR,-0.1
+607,2022,Bryan Lavastida,CLE,-0.1
+655,2022,Bryce Johnson,SFG,-0.1
+649,2022,Austin Allen,OAK,-0.1
+659,2022,Ender Inciarte,NYM,-0.1
+660,2022,Zack Short,DET,-0.1
+669,2022,Tony Wolters,LAD,-0.1
+672,2022,Deven Marrero,NYM,-0.1
+674,2022,Ronald Guzman,NYY,-0.1
+675,2022,Luis Liberato,SDP,-0.1
+676,2022,Josh Lester,DET,-0.1
+677,2022,D.J. Stewart,BAL,-0.1
+681,2022,Travis Blankenhorn,NYM,-0.1
+684,2022,Ronnie Dawson,CIN,-0.1
+687,2022,Kramer Robertson,STL,-0.1
+688,2022,Brewer Hicklen,KCR,-0.1
+690,2022,Freddy Fermin,KCR,-0.1
+278,2022,Nick Castellanos,PHI,-0.2
+260,2022,Austin Meadows,DET,-0.2
+296,2022,Yermin Mercedes,SFG,-0.2
+357,2022,Nick Pratto,KCR,-0.2
+353,2022,Bobby Dalbec,BOS,-0.2
+326,2022,Gabriel Arias,CLE,-0.2
+359,2022,Matt Thaiss,LAA,-0.2
+411,2022,Jo Adell,LAA,-0.2
+427,2022,Diego Castillo,PIT,-0.2
+458,2022,Jonathan Aranda,TBR,-0.2
+444,2022,Garrett Hampson,COL,-0.2
+471,2022,Ezequiel Tovar,COL,-0.2
+449,2022,Jacob Stallings,MIA,-0.2
+483,2022,J.J. Matijevic,HOU,-0.2
+503,2022,Jackie Bradley Jr.,- - -,-0.2
+511,2022,Tucupita Marcano,PIT,-0.2
+494,2022,Dominic Smith,NYM,-0.2
+512,2022,Andy Ibanez,TEX,-0.2
+502,2022,Mark Vientos,NYM,-0.2
+528,2022,Alec Burleson,STL,-0.2
+547,2022,Jarred Kelenic,SEA,-0.2
+555,2022,Michael Perez,- - -,-0.2
+522,2022,Sandy Leon,- - -,-0.2
+556,2022,Aramis Garcia,CIN,-0.2
+562,2022,Joshua Palacios,WSN,-0.2
+564,2022,Chad Wallach,LAA,-0.2
+580,2022,Drew Ellis,- - -,-0.2
+578,2022,Caleb Hamilton,MIN,-0.2
+615,2022,Elier Hernandez,TEX,-0.2
+597,2022,Andrelton Simmons,CHC,-0.2
+608,2022,Miles Mastrobuoni,TBR,-0.2
+604,2022,Ryan Aguilar,LAA,-0.2
+598,2022,Michael Hermosillo,CHC,-0.2
+617,2022,Chris Okey,CIN,-0.2
+635,2022,Rylan Bannon,- - -,-0.2
+645,2022,Taylor Motter,CIN,-0.2
+651,2022,Steven Souza Jr.,SEA,-0.2
+644,2022,Ivan Herrera,STL,-0.2
+642,2022,Estevan Florial,NYY,-0.2
+664,2022,Travis Swaggerty,PIT,-0.2
+658,2022,Israel Pineda,WSN,-0.2
+662,2022,Billy Hamilton,- - -,-0.2
+663,2022,Jose Godoy,- - -,-0.2
+667,2022,Christian Lopes,OAK,-0.2
+673,2022,Wilmer Difo,ARI,-0.2
+686,2022,Aaron Whitefield,LAA,-0.2
+691,2022,Bo Naylor,CLE,-0.2
+277,2022,Franchy Cordero,BOS,-0.3
+306,2022,Marcell Ozuna,ATL,-0.3
+316,2022,Harold Castro,DET,-0.3
+325,2022,Peyton Burdick,MIA,-0.3
+349,2022,Dee Strange-Gordon,WSN,-0.3
+436,2022,Hanser Alberto,LAD,-0.3
+422,2022,Jordan Diaz,OAK,-0.3
+395,2022,Mike Ford,- - -,-0.3
+443,2022,CJ Abrams,- - -,-0.3
+441,2022,Vimael Machin,OAK,-0.3
+446,2022,JJ Bleday,MIA,-0.3
+520,2022,Miguel Andujar,- - -,-0.3
+526,2022,Zach Reks,TEX,-0.3
+491,2022,Akil Baddoo,DET,-0.3
+496,2022,Jason Heyward,CHC,-0.3
+527,2022,Zack Collins,- - -,-0.3
+534,2022,Alcides Escobar,WSN,-0.3
+539,2022,Matt Davidson,- - -,-0.3
+544,2022,Kyle Lewis,SEA,-0.3
+514,2022,Willie Calhoun,- - -,-0.3
+576,2022,Kody Clemens,DET,-0.3
+579,2022,Mike Zunino,TBR,-0.3
+599,2022,Juan Lagares,LAA,-0.3
+588,2022,Jose Herrera,ARI,-0.3
+606,2022,Esteury Ruiz,- - -,-0.3
+600,2022,Bradley Zimmer,- - -,-0.3
+592,2022,Kelvin Gutierrez,BAL,-0.3
+610,2022,Anthony Bemboom,BAL,-0.3
+619,2022,Alex Dickerson,ATL,-0.3
+630,2022,Chuckie Robinson,CIN,-0.3
+638,2022,Lenyn Sosa,CHW,-0.3
+641,2022,Max Schrock,CIN,-0.3
+657,2022,Yonny Hernandez,ARI,-0.3
+389,2022,Charlie Culberson,TEX,-0.4
+412,2022,Frank Schwindel,CHC,-0.4
+448,2022,Oscar Mercado,- - -,-0.4
+430,2022,Ryan O'Hearn,KCR,-0.4
+485,2022,Richie Palacios,CLE,-0.4
+478,2022,Kevin Plawecki,- - -,-0.4
+504,2022,Didi Gregorius,PHI,-0.4
+524,2022,Guillermo Heredia,ATL,-0.4
+506,2022,Josh VanMeter,PIT,-0.4
+565,2022,Jack Mayfield,LAA,-0.4
+550,2022,Justin Upton,SEA,-0.4
+602,2022,Miguel Vargas,LAD,-0.4
+589,2022,Will Benson,CLE,-0.4
+611,2022,Magneuris Sierra,LAA,-0.4
+616,2022,Korey Lee,HOU,-0.4
+623,2022,Jeter Downs,BOS,-0.4
+621,2022,Tres Barrera,WSN,-0.4
+609,2022,Dom Nunez,COL,-0.4
+622,2022,Brent Rooker,- - -,-0.4
+640,2022,Jonathan Arauz,- - -,-0.4
+646,2022,Michael Siani,CIN,-0.4
+634,2022,Yolmer Sanchez,- - -,-0.4
+647,2022,Niko Goodrum,HOU,-0.4
+650,2022,Heliot Ramos,SFG,-0.4
+661,2022,Bobby Bradley,CLE,-0.4
+335,2022,Nelson Cruz,WSN,-0.5
+361,2022,Alex Kirilloff,MIN,-0.5
+385,2022,Hoy Park,PIT,-0.5
+391,2022,Chad Pinder,OAK,-0.5
+364,2022,Mike Moustakas,CIN,-0.5
+461,2022,Travis Demeritte,ATL,-0.5
+472,2022,Maikel Franco,WSN,-0.5
+484,2022,Stephen Piscotty,OAK,-0.5
+470,2022,Luis Torrens,SEA,-0.5
+459,2022,Yasmani Grandal,CHW,-0.5
+501,2022,Taylor Walls,TBR,-0.5
+530,2022,Willians Astudillo,MIA,-0.5
+566,2022,Mickey Moniak,- - -,-0.5
+595,2022,Steven Duggar,- - -,-0.5
+612,2022,Andrew Knapp,- - -,-0.5
+648,2022,Billy McKinney,OAK,-0.5
+652,2022,Eddy Alvarez,LAD,-0.5
+666,2022,Tim Beckham,MIN,-0.5
+157,2022,Andrew Vaughn,CHW,-0.6
+244,2022,MJ Melendez,KCR,-0.6
+388,2022,Calvin Mitchell,PIT,-0.6
+523,2022,Abraham Toro,SEA,-0.6
+473,2022,Tyler Nevin,BAL,-0.6
+521,2022,Tyler Wade,LAA,-0.6
+551,2022,Bligh Madris,PIT,-0.6
+577,2022,Vidal Brujan,TBR,-0.6
+593,2022,Donovan Walton,- - -,-0.6
+569,2022,Ehire Adrianza,- - -,-0.6
+596,2022,Chris Owings,BAL,-0.6
+627,2022,David MacKinnon,- - -,-0.6
+637,2022,Phil Gosselin,- - -,-0.6
+654,2022,Jose Rojas,LAA,-0.6
+653,2022,Kevin Padlo,- - -,-0.6
+665,2022,Lucius Fox,WSN,-0.6
+670,2022,Travis Shaw,BOS,-0.6
+350,2022,Jesus Aguilar,- - -,-0.7
+382,2022,Michael Chavis,PIT,-0.7
+371,2022,Yuli Gurriel,HOU,-0.7
+338,2022,Darin Ruf,- - -,-0.7
+414,2022,Tommy La Stella,SFG,-0.7
+431,2022,Nick Senzel,CIN,-0.7
+497,2022,Sheldon Neuse,OAK,-0.7
+507,2022,Sam Hilliard,COL,-0.7
+557,2022,Lewin Diaz,MIA,-0.7
+590,2022,Lorenzo Cain,MIL,-0.7
+639,2022,Matt Beaty,SDP,-0.7
+247,2022,Joey Votto,CIN,-0.8
+407,2022,Jared Walsh,LAA,-0.8
+428,2022,Spencer Torkelson,DET,-0.8
+495,2022,Kurt Suzuki,LAA,-0.8
+591,2022,Ernie Clement,- - -,-0.8
+632,2022,Cole Tucker,PIT,-0.8
+625,2022,Jason Castro,HOU,-0.8
+398,2022,Franmil Reyes,- - -,-0.9
+513,2022,Stephen Vogt,OAK,-0.9
+540,2022,Seth Beer,ARI,-0.9
+624,2022,Jermaine Palacios,MIN,-0.9
+628,2022,Miguel Sano,MIN,-0.9
+308,2022,Hunter Dozier,KCR,-1.0
+480,2022,Avisail Garcia,MIA,-1.0
+464,2022,Cooper Hummel,ARI,-1.0
+515,2022,Riley Adams,WSN,-1.0
+552,2022,Jed Lowrie,OAK,-1.0
+594,2022,Cristian Pache,OAK,-1.0
+603,2022,Michael Papierski,- - -,-1.0
+460,2022,Brad Miller,TEX,-1.1
+571,2022,Leury Garcia,CHW,-1.1
+372,2022,Elias Diaz,COL,-1.2
+509,2022,Jonathan Villar,- - -,-1.2
+626,2022,Jose Barrero,CIN,-1.2
+417,2022,Miguel Cabrera,DET,-1.3
+475,2022,Kole Calhoun,TEX,-1.3
+481,2022,Eddie Rosario,ATL,-1.3
+505,2022,Robinson Chirinos,BAL,-1.3
+575,2022,Yoshi Tsutsugo,PIT,-1.3
+613,2022,Austin Romine,- - -,-1.4
+633,2022,Robinson Cano,- - -,-1.4
+261,2022,Aaron Nola,PHI,6.3
+187,2022,Carlos Rodon,SFG,6.2
+74,2022,Justin Verlander,HOU,6.1
+118,2022,Sandy Alcantara,MIA,5.9
+124,2022,Shohei Ohtani,LAA,5.6
+279,2022,Kevin Gausman,TOR,5.5
+140,2022,Max Fried,ATL,4.9
+157,2022,Spencer Strider,ATL,4.9
+186,2022,Shane Bieber,CLE,4.8
+197,2022,Corbin Burnes,MIL,4.6
+119,2022,Max Scherzer,NYM,4.5
+177,2022,Framber Valdez,HOU,4.4
+104,2022,Dylan Cease,CHW,4.4
+229,2022,Yu Darvish,SDP,4.2
+189,2022,Logan Webb,SFG,4.2
+149,2022,Zac Gallen,ARI,4.2
+178,2022,Zack Wheeler,PHI,4.2
+151,2022,Tyler Anderson,LAD,4.1
+194,2022,Jose Quintana,- - -,4.0
+109,2022,Alek Manoah,TOR,3.9
+116,2022,Clayton Kershaw,LAD,3.9
+188,2022,Martin Perez,TEX,3.9
+133,2022,Nestor Cortes,NYY,3.7
+205,2022,Luis Castillo,- - -,3.7
+355,2022,Alex Cobb,SFG,3.7
+190,2022,Patrick Sandoval,LAA,3.7
+219,2022,Brandon Woodruff,MIL,3.6
+148,2022,Shane McClanahan,TBR,3.6
+283,2022,Blake Snell,SDP,3.6
+313,2022,Gerrit Cole,NYY,3.4
+147,2022,Cristian Javier,HOU,3.4
+200,2022,Triston McKenzie,CLE,3.4
+195,2022,Joe Musgrove,SDP,3.4
+98,2022,Julio Urias,LAD,3.2
+282,2022,Merrill Kelly,ARI,3.2
+462,2022,Corey Kluber,TBR,3.1
+138,2022,Jeffrey Springs,TBR,3.1
+253,2022,Logan Gilbert,SEA,3.0
+183,2022,Drew Rasmussen,TBR,3.0
+214,2022,Ross Stripling,TOR,3.0
+258,2022,Brady Singer,KCR,3.0
+358,2022,Pablo Lopez,MIA,3.0
+59,2022,Edwin Diaz,NYM,3.0
+349,2022,Adam Wainwright,STL,2.9
+294,2022,George Kirby,SEA,2.9
+317,2022,Tarik Skubal,DET,2.9
+251,2022,Kyle Wright,ATL,2.8
+299,2022,Chris Bassitt,NYM,2.8
+268,2022,Miles Mikolas,STL,2.8
+308,2022,Jordan Montgomery,- - -,2.8
+96,2022,Tony Gonsolin,LAD,2.7
+311,2022,Taijuan Walker,NYM,2.7
+403,2022,Carlos Carrasco,NYM,2.5
+505,2022,Kyle Freeland,COL,2.5
+244,2022,Justin Steele,CHC,2.5
+392,2022,Jameson Taillon,NYY,2.4
+226,2022,Sonny Gray,MIN,2.4
+280,2022,Johnny Cueto,CHW,2.4
+341,2022,Ranger Suarez,PHI,2.3
+273,2022,Jesus Luzardo,MIA,2.3
+62,2022,Emmanuel Clase,CLE,2.3
+322,2022,Joe Ryan,MIN,2.2
+395,2022,Noah Syndergaard,- - -,2.2
+55,2022,Evan Phillips,LAD,2.2
+363,2022,Reid Detmers,LAA,2.2
+82,2022,Devin Williams,MIL,2.2
+472,2022,Tyler Mahle,- - -,2.2
+225,2022,Jacob deGrom,NYM,2.2
+293,2022,Cal Quantrill,CLE,2.1
+391,2022,Mitch Keller,PIT,2.1
+352,2022,Luis Garcia,HOU,2.0
+58,2022,Ryan Helsley,STL,2.0
+169,2022,Reynaldo Lopez,CHW,2.0
+315,2022,Marcus Stroman,CHC,2.0
+88,2022,A.J. Minter,ATL,2.0
+422,2022,Frankie Montas,- - -,2.0
+327,2022,Freddy Peralta,MIL,2.0
+342,2022,Nick Lodolo,CIN,1.9
+343,2022,Zack Greinke,KCR,1.9
+523,2022,JT Brubaker,PIT,1.9
+142,2022,Andres Munoz,SEA,1.9
+549,2022,Lucas Giolito,CHW,1.8
+575,2022,Kyle Gibson,PHI,1.8
+259,2022,Dean Kremer,BAL,1.8
+408,2022,Lance Lynn,CHW,1.8
+453,2022,Rich Hill,BOS,1.8
+400,2022,Jon Gray,TEX,1.8
+75,2022,Daniel Bard,COL,1.8
+106,2022,John Schreiber,BOS,1.8
+579,2022,Alex Wood,SFG,1.7
+120,2022,Michael King,NYY,1.7
+161,2022,Trevor Stephan,CLE,1.7
+249,2022,Jose Alvarado,PHI,1.7
+72,2022,Erik Swanson,SEA,1.7
+351,2022,Robbie Ray,SEA,1.6
+401,2022,Jose Suarez,LAA,1.6
+353,2022,Hector Neris,HOU,1.6
+482,2022,Hunter Greene,CIN,1.6
+176,2022,Liam Hendriks,CHW,1.6
+220,2022,Chris Martin,- - -,1.6
+296,2022,Luis Garcia,SDP,1.6
+310,2022,Caleb Thielbar,MIN,1.6
+141,2022,Jimmy Herget,LAA,1.6
+479,2022,Jordan Lyles,BAL,1.5
+274,2022,Michael Wacha,BOS,1.5
+508,2022,Nick Pivetta,BOS,1.5
+243,2022,Luis Severino,NYY,1.5
+374,2022,David Peterson,NYM,1.5
+93,2022,Jordan Romano,TOR,1.5
+97,2022,Alex Vesia,LAD,1.5
+128,2022,Rafael Montero,HOU,1.5
+328,2022,Braxton Garrett,MIA,1.5
+80,2022,Jhoan Duran,MIN,1.5
+139,2022,Raisel Iglesias,- - -,1.5
+404,2022,Cole Irvin,OAK,1.4
+464,2022,Charlie Morton,ATL,1.4
+547,2022,Graham Ashcraft,CIN,1.4
+83,2022,Bryan Abreu,HOU,1.4
+103,2022,Felix Bautista,BAL,1.4
+231,2022,Adrian Sampson,CHC,1.4
+302,2022,Garrett Whitlock,BOS,1.4
+309,2022,Bryan Baker,BAL,1.4
+153,2022,Collin McHugh,ATL,1.4
+155,2022,David Bednar,PIT,1.4
+202,2022,Ryan Pressly,HOU,1.4
+218,2022,Giovanny Gallegos,STL,1.4
+312,2022,Joe Jimenez,DET,1.4
+419,2022,Zach Eflin,PHI,1.4
+576,2022,Antonio Senzatela,COL,1.4
+255,2022,Bailey Ober,MIN,1.4
+561,2022,German Marquez,COL,1.3
+84,2022,Matt Moore,TEX,1.3
+478,2022,Jakob Junis,SFG,1.3
+558,2022,Aaron Civale,CLE,1.3
+68,2022,Anthony Bass,- - -,1.3
+69,2022,Jason Adam,TBR,1.3
+527,2022,Brayan Bello,BOS,1.3
+146,2022,Scott Effross,- - -,1.3
+622,2022,Mitch White,- - -,1.3
+150,2022,Clay Holmes,NYY,1.2
+305,2022,Drew Smyly,CHC,1.2
+144,2022,Camilo Doval,SFG,1.2
+473,2022,Jake Odorizzi,- - -,1.2
+54,2022,Pete Fairbanks,TBR,1.2
+346,2022,Eric Lauer,MIL,1.1
+486,2022,Dakota Hudson,STL,1.1
+562,2022,Sean Manaea,SDP,1.1
+79,2022,Alexis Diaz,CIN,1.1
+87,2022,Adam Ottavino,NYM,1.1
+94,2022,Dylan Lee,ATL,1.1
+286,2022,Kenley Jansen,ATL,1.1
+228,2022,Andrew Heaney,LAD,1.1
+185,2022,Joe Mantiply,ARI,1.1
+396,2022,Jose Urquidy,HOU,1.0
+448,2022,Michael Lorenzen,LAA,1.0
+64,2022,Cionel Perez,BAL,1.0
+85,2022,Brock Burke,TEX,1.0
+450,2022,Tyler Wells,BAL,1.0
+210,2022,Seranthony Dominguez,PHI,1.0
+387,2022,Nathan Eovaldi,BOS,1.0
+411,2022,Walker Buehler,LAD,1.0
+531,2022,Adrian Houser,MIL,1.0
+217,2022,Enyel De Los Santos,CLE,1.0
+321,2022,Michael Kopech,CHW,1.0
+463,2022,Austin Voth,- - -,1.0
+24,2022,J.P. Feyereisen,TBR,1.0
+271,2022,Andrew Bellatti,PHI,1.0
+532,2022,Taylor Rogers,- - -,1.0
+122,2022,Sam Hentges,CLE,1.0
+166,2022,Wandy Peralta,NYY,1.0
+544,2022,Nick Nelson,PHI,1.0
+90,2022,James Karinchak,CLE,1.0
+143,2022,Hunter Harvey,WSN,1.0
+301,2022,Matt Manning,DET,1.0
+373,2022,Buck Farmer,CIN,1.0
+160,2022,Brooks Raley,TBR,1.0
+596,2022,Jose Berrios,TOR,0.9
+566,2022,Ian Anderson,ATL,0.9
+100,2022,Scott Barlow,KCR,0.9
+281,2022,Griffin Jax,MIN,0.9
+248,2022,John Brebbia,SFG,0.9
+359,2022,Craig Kimbrel,LAD,0.9
+582,2022,Taylor Hearn,TEX,0.9
+365,2022,Roansy Contreras,PIT,0.9
+525,2022,Spenser Watkins,BAL,0.9
+629,2022,Austin Gomber,COL,0.9
+145,2022,Jorge Lopez,- - -,0.9
+158,2022,Lucas Luetge,NYY,0.9
+488,2022,Dane Dunning,TEX,0.9
+623,2022,Trevor Rogers,MIA,0.9
+56,2022,Ryne Stanek,HOU,0.9
+179,2022,Andrew Chafin,DET,0.9
+211,2022,Zach Jackson,OAK,0.9
+485,2022,Aaron Ashby,MIL,0.9
+47,2022,Tyler Kinley,COL,0.9
+414,2022,Chris Paddack,MIN,0.9
+469,2022,Duane Underwood Jr.,PIT,0.9
+105,2022,Jovani Moran,MIN,0.9
+174,2022,Adam Cimber,TOR,0.8
+360,2022,Keegan Thompson,CHC,0.8
+546,2022,Dylan Bundy,MIN,0.8
+455,2022,Paul Blackburn,OAK,0.8
+578,2022,Brad Keller,KCR,0.8
+198,2022,Nabil Crismatt,SDP,0.8
+114,2022,Lance McCullers Jr.,HOU,0.8
+230,2022,Yimi Garcia,TOR,0.8
+497,2022,MacKenzie Gore,SDP,0.8
+548,2022,Kyle Bradish,BAL,0.8
+580,2022,Daniel Lynch IV,KCR,0.8
+457,2022,Zach Plesac,CLE,0.8
+107,2022,Daniel Hudson,LAD,0.8
+241,2022,Bryce Elder,ATL,0.8
+265,2022,Brusdar Graterol,LAD,0.8
+594,2022,Josh Hader,- - -,0.8
+388,2022,Jason Foley,DET,0.8
+452,2022,Chris Stratton,- - -,0.7
+298,2022,Alex Lange,DET,0.7
+690,2022,Patrick Corbin,WSN,0.7
+115,2022,Robert Suarez,SDP,0.7
+238,2022,Tanner Houck,BOS,0.7
+295,2022,Michael Fulmer,- - -,0.7
+599,2022,Steven Matz,STL,0.7
+129,2022,David Robertson,- - -,0.7
+199,2022,Brad Boxberger,MIL,0.7
+204,2022,Penn Murfee,SEA,0.7
+256,2022,Johan Oviedo,- - -,0.7
+362,2022,Jesse Chavez,- - -,0.7
+584,2022,Tylor Megill,NYM,0.7
+101,2022,Hayden Wesneski,CHC,0.7
+250,2022,Kendall Graveman,CHW,0.7
+254,2022,Trevor Williams,NYM,0.7
+361,2022,Hoby Milner,MIL,0.7
+418,2022,Taylor Clarke,KCR,0.7
+570,2022,Jose Urena,- - -,0.7
+592,2022,Dennis Santana,TEX,0.7
+334,2022,Domingo German,NYY,0.7
+167,2022,Connor Overton,CIN,0.7
+215,2022,Dylan Floro,MIA,0.7
+180,2022,David Phelps,TOR,0.7
+354,2022,Chris Flexen,SEA,0.6
+242,2022,Andre Pallante,STL,0.6
+316,2022,Kyle Finnegan,WSN,0.6
+380,2022,Bailey Falter,PHI,0.6
+287,2022,Eli Morgan,CLE,0.6
+423,2022,Eduardo Rodriguez,DET,0.6
+108,2022,Jake Woodford,STL,0.6
+483,2022,Matt Brash,SEA,0.6
+658,2022,Ryan Feltner,COL,0.6
+326,2022,Tyler Rogers,SFG,0.6
+540,2022,Davis Martin,CHW,0.6
+564,2022,Amir Garrett,KCR,0.6
+631,2022,Kris Bubic,KCR,0.6
+644,2022,Justin Lawrence,COL,0.6
+49,2022,Hunter Brown,HOU,0.6
+175,2022,Jalen Beeks,TBR,0.6
+266,2022,Connor Brogdon,PHI,0.6
+267,2022,Gregory Soto,DET,0.6
+440,2022,Lucas Gilbreath,COL,0.6
+502,2022,Ian Gibaut,- - -,0.6
+182,2022,Jose Leclerc,TEX,0.6
+379,2022,JP Sears,- - -,0.5
+235,2022,Clarke Schmidt,NYY,0.5
+171,2022,Zach Pop,- - -,0.5
+221,2022,Dillon Tate,BAL,0.5
+458,2022,Tanner Scott,MIA,0.5
+67,2022,Drey Jameson,ARI,0.5
+252,2022,Keegan Akin,BAL,0.5
+325,2022,Tim Hill,SDP,0.5
+624,2022,Kutter Crawford,BOS,0.5
+216,2022,Joey Wentz,DET,0.5
+240,2022,Wade Miley,CHC,0.5
+285,2022,Adbert Alzolay,CHC,0.5
+323,2022,Richard Bleier,MIA,0.5
+466,2022,Shawn Armstrong,- - -,0.5
+507,2022,Chris Archer,MIN,0.5
+78,2022,Caleb Ferguson,LAD,0.5
+86,2022,Ron Marinaccio,NYY,0.5
+290,2022,Kevin Ginkel,ARI,0.5
+646,2022,Daulton Jefferies,OAK,0.5
+675,2022,Joe Kelly,CHW,0.5
+706,2022,Luke Weaver,- - -,0.5
+50,2022,Yency Almonte,LAD,0.5
+652,2022,Ryan Brasier,BOS,0.5
+461,2022,Mike Clevinger,SDP,0.4
+545,2022,Madison Bumgarner,ARI,0.4
+213,2022,Edward Cabrera,MIA,0.4
+645,2022,Chad Kuhl,COL,0.4
+159,2022,Paul Sewald,SEA,0.4
+172,2022,Dylan Coleman,KCR,0.4
+306,2022,Nick Martinez,SDP,0.4
+536,2022,Trevor Megill,MIN,0.4
+297,2022,Dany Jimenez,OAK,0.4
+347,2022,Jackson Stephens,ATL,0.4
+366,2022,Ryan Thompson,TBR,0.4
+385,2022,Cody Stashak,MIN,0.4
+409,2022,Will Vest,DET,0.4
+533,2022,Vince Velasquez,CHW,0.4
+102,2022,Kyle Nelson,ARI,0.4
+181,2022,Peter Strzelecki,MIL,0.4
+232,2022,Javier Assad,CHC,0.4
+424,2022,Zach Davies,ARI,0.4
+432,2022,Jonathan Loaisiga,NYY,0.4
+489,2022,Joely Rodriguez,NYM,0.4
+92,2022,Seth Martinez,HOU,0.4
+127,2022,Alex Young,- - -,0.4
+393,2022,Garrett Cleavinger,- - -,0.4
+529,2022,Mike Baumann,BAL,0.4
+667,2022,DL Hall,BAL,0.4
+405,2022,Jose Quijada,LAA,0.4
+534,2022,Packy Naughton,STL,0.4
+699,2022,Shelby Miller,SFG,0.4
+339,2022,Diego Castillo,SEA,0.3
+656,2022,Erick Fedde,WSN,0.3
+113,2022,Nick Sandlin,CLE,0.3
+370,2022,Colin Holderman,- - -,0.3
+446,2022,James Kaprielian,OAK,0.3
+192,2022,Erasmo Ramirez,WSN,0.3
+223,2022,Steven Wilson,SDP,0.3
+234,2022,A.J. Puk,OAK,0.3
+307,2022,Carlos Estevez,COL,0.3
+372,2022,Matt Strahm,BOS,0.3
+537,2022,Kyle Hendricks,CHC,0.3
+173,2022,Brad Hand,PHI,0.3
+333,2022,Seth Lugo,NYM,0.3
+542,2022,Jordan Hicks,STL,0.3
+126,2022,Aaron Bummer,CHW,0.3
+222,2022,Tanner Banks,CHW,0.3
+460,2022,Tommy Nance,MIA,0.3
+468,2022,Manny Banuelos,- - -,0.3
+494,2022,Dustin May,LAD,0.3
+503,2022,Lou Trivino,- - -,0.3
+559,2022,Ken Waldichuk,OAK,0.3
+655,2022,Austin Davis,- - -,0.3
+696,2022,Joel Kuhnel,CIN,0.3
+66,2022,Ryne Nelson,ARI,0.3
+208,2022,Chad Green,NYY,0.3
+262,2022,Jimmy Lambert,CHW,0.3
+435,2022,Brett Martin,TEX,0.3
+501,2022,Victor Arano,WSN,0.3
+571,2022,Pierce Johnson,SDP,0.3
+600,2022,Garrett Richards,TEX,0.3
+628,2022,Alex Faedo,DET,0.3
+665,2022,Ty Blach,COL,0.3
+0,2022,Sean Doolittle,WSN,0.3
+51,2022,Scott Alexander,SFG,0.3
+57,2022,Fernando Cruz,CIN,0.3
+284,2022,John Means,BAL,0.3
+375,2022,Aaron Loup,LAA,0.3
+500,2022,Luis L. Ortiz,PIT,0.3
+291,2022,Mychal Givens,- - -,0.2
+447,2022,Adrian Morejon,SDP,0.2
+112,2022,Matt Wisler,TBR,0.2
+260,2022,Joel Payamps,- - -,0.2
+476,2022,Rony Garcia,DET,0.2
+589,2022,Zach Thompson,PIT,0.2
+708,2022,Aaron Sanchez,- - -,0.2
+163,2022,Jake Cousins,MIL,0.2
+371,2022,Jeff Hoffman,CIN,0.2
+407,2022,Mark Leiter Jr.,CHC,0.2
+620,2022,Robert Stephenson,- - -,0.2
+23,2022,Yonny Chirinos,TBR,0.2
+270,2022,Tanner Rainey,WSN,0.2
+369,2022,Louie Varland,MIN,0.2
+389,2022,Konnor Pilkington,CLE,0.2
+471,2022,Matt Foster,CHW,0.2
+680,2022,Dinelson Lamet,- - -,0.2
+702,2022,Janson Junk,LAA,0.2
+41,2022,Max Kranick,PIT,0.2
+81,2022,Andre Jackson,LAD,0.2
+125,2022,Denyi Reyes,BAL,0.2
+137,2022,Justin Wilson,CIN,0.2
+207,2022,Kyle Barraclough,LAA,0.2
+224,2022,Phoenix Sanders,TBR,0.2
+245,2022,Chris Sale,BOS,0.2
+288,2022,Jeff Brigham,MIA,0.2
+515,2022,Wyatt Mills,- - -,0.2
+539,2022,Archie Bradley,LAA,0.2
+560,2022,Cole Ragans,TEX,0.2
+626,2022,Tony Santillan,CIN,0.2
+781,2022,Luis Gil,NYY,0.2
+170,2022,Carl Edwards Jr.,WSN,0.1
+335,2022,Ryan Tepera,LAA,0.1
+416,2022,Miguel Castro,NYY,0.1
+509,2022,Luis Cessa,CIN,0.1
+526,2022,Josh Winder,MIN,0.1
+441,2022,Beau Brieske,DET,0.1
+498,2022,Ryan Yarbrough,TBR,0.1
+504,2022,Drew Hutchison,DET,0.1
+521,2022,Mark Melancon,ARI,0.1
+606,2022,Trevor Richards,TOR,0.1
+639,2022,Humberto Castellanos,ARI,0.1
+701,2022,Josh Staumont,KCR,0.1
+61,2022,Matthew Boyd,SEA,0.1
+134,2022,David Price,LAD,0.1
+304,2022,Matt Bush,- - -,0.1
+412,2022,Kyle Crick,CHW,0.1
+456,2022,Reyes Moronta,- - -,0.1
+530,2022,Phil Bickford,LAD,0.1
+574,2022,Trevor May,NYM,0.1
+638,2022,Hyun-Jin Ryu,TOR,0.1
+697,2022,Chase Anderson,CIN,0.1
+39,2022,Angel Rondon,STL,0.1
+53,2022,Jose Cisnero,DET,0.1
+91,2022,Zack Thompson,STL,0.1
+117,2022,Cody Morris,CLE,0.1
+196,2022,Jhonathan Diaz,LAA,0.1
+233,2022,Logan Gillaspie,BAL,0.1
+417,2022,Daniel Castano,MIA,0.1
+567,2022,Shane Baz,TBR,0.1
+632,2022,Juan Minaya,MIN,0.1
+651,2022,Sean Hjelle,SFG,0.1
+663,2022,Logan Allen,- - -,0.1
+666,2022,Nick Wittgren,STL,0.1
+700,2022,Josh Sborz,TEX,0.1
+728,2022,Joan Adon,WSN,0.1
+762,2022,James Norwood,PHI,0.1
+22,2022,Ryan Castellani,OAK,0.1
+35,2022,Luis F. Castillo,DET,0.1
+52,2022,Luis F. Ortiz,SFG,0.1
+60,2022,Tyler Glasnow,TBR,0.1
+70,2022,Marcos Diplan,BAL,0.1
+73,2022,Mark Appel,PHI,0.1
+89,2022,Drew Carlton,DET,0.1
+123,2022,Gabe Speier,KCR,0.1
+164,2022,Cooper Criswell,TBR,0.1
+212,2022,Steven Brault,CHC,0.1
+331,2022,Jhon Romero,MIN,0.1
+344,2022,Michael Plassmeyer,PHI,0.1
+345,2022,Parker Mushinski,HOU,0.1
+420,2022,Austin Brice,PIT,0.1
+426,2022,Jake Fishman,MIA,0.1
+436,2022,Cristofer Ogando,TBR,0.1
+459,2022,Matt Barnes,BOS,0.1
+475,2022,Mauricio Llovera,SFG,0.1
+554,2022,Yerry De Los Santos,PIT,0.1
+588,2022,Daniel Mengden,KCR,0.1
+593,2022,Jordan Weems,WSN,0.1
+609,2022,Casey Mize,DET,0.1
+713,2022,Tayler Scott,SDP,0.1
+716,2022,Julian Merryweather,TOR,0.1
+722,2022,Rob Zastryzny,- - -,0.1
+753,2022,Kevin Herget,TBR,0.1
+804,2022,Bryce Montes de Oca,NYM,0.1
+823,2022,Cade Cavalli,WSN,0.1
+237,2022,Tim Mayza,TOR,0.0
+519,2022,Glenn Otto,TEX,0.0
+203,2022,Steven Okert,MIA,0.0
+664,2022,Josh Winckowski,BOS,0.0
+275,2022,Domingo Acevedo,OAK,0.0
+329,2022,Jose Cuas,KCR,0.0
+410,2022,Dominic Leone,SFG,0.0
+444,2022,Rowan Wick,CHC,0.0
+691,2022,Reiver Sanmartin,CIN,0.0
+154,2022,Jaime Barria,LAA,0.0
+276,2022,Drew Smith,NYM,0.0
+300,2022,Corey Knebel,PHI,0.0
+398,2022,Michael Rucker,CHC,0.0
+550,2022,Hunter Strickland,CIN,0.0
+630,2022,Greg Weissert,NYY,0.0
+132,2022,JT Chargois,TBR,0.0
+152,2022,Wily Peralta,DET,0.0
+191,2022,Sam Moll,OAK,0.0
+201,2022,Jonathan Hernandez,TEX,0.0
+383,2022,Jandel Gustave,MIL,0.0
+438,2022,Darren O'Day,ATL,0.0
+449,2022,Jack Flaherty,STL,0.0
+633,2022,Cristopher Sanchez,PHI,0.0
+669,2022,Matthew Liberatore,STL,0.0
+726,2022,Jake Reed,- - -,0.0
+769,2022,Chris Devenski,- - -,0.0
+15,2022,Austin Adams,SDP,0.0
+40,2022,Kyle Tyler,SDP,0.0
+76,2022,Blake Treinen,LAD,0.0
+77,2022,Luke Bard,- - -,0.0
+165,2022,Tyler Cyr,- - -,0.0
+193,2022,Mason Thompson,WSN,0.0
+227,2022,Huascar Brazoban,MIA,0.0
+356,2022,Hirokazu Sawamura,BOS,0.0
+397,2022,Zack Kelly,BOS,0.0
+415,2022,John King,TEX,0.0
+465,2022,Anthony Misiewicz,- - -,0.0
+514,2022,Michael Grove,LAD,0.0
+517,2022,Touki Toussaint,LAA,0.0
+677,2022,Adonis Medina,NYM,0.0
+721,2022,Anthony Banda,- - -,0.0
+727,2022,Ashton Goudeau,COL,0.0
+758,2022,Kyle Muller,ATL,0.0
+786,2022,Lucas Sims,CIN,0.0
+1,2022,Charlie Culberson,TEX,0.0
+2,2022,Sandy Leon,CLE,0.0
+3,2022,Jay Jackson,ATL,0.0
+4,2022,Ehire Adrianza,WSN,0.0
+5,2022,Darin Ruf,NYM,0.0
+6,2022,Randal Grichuk,COL,0.0
+7,2022,Corey Dickerson,STL,0.0
+8,2022,Phil Gosselin,LAA,0.0
+10,2022,Jace Peterson,MIL,0.0
+11,2022,Alex Claudio,NYM,0.0
+12,2022,Ken Giles,SEA,0.0
+13,2022,Orlando Arcia,ATL,0.0
+14,2022,Ildemaro Vargas,WSN,0.0
+16,2022,Kevin Plawecki,BOS,0.0
+17,2022,Franmil Reyes,CHC,0.0
+18,2022,Jack Mayfield,LAA,0.0
+19,2022,Willians Astudillo,MIA,0.0
+20,2022,Reese McGuire,BOS,0.0
+21,2022,Pablo Reyes,MIL,0.0
+25,2022,Vinny Nittoli,PHI,0.0
+26,2022,Conner Menez,CHC,0.0
+27,2022,Kyle Dowdy,CIN,0.0
+28,2022,Brian Serven,COL,0.0
+29,2022,Jorge Alcala,MIN,0.0
+30,2022,Sheldon Neuse,OAK,0.0
+31,2022,Jordan Sheffield,COL,0.0
+32,2022,Mike Brosseau,MIL,0.0
+33,2022,Michel Baez,SDP,0.0
+34,2022,Riley O'Brien,SEA,0.0
+36,2022,Aneurys Zabala,MIA,0.0
+37,2022,Nick Duron,PHI,0.0
+38,2022,Yerry Rodriguez,TEX,0.0
+42,2022,Easton McGee,TBR,0.0
+43,2022,William Woods,ATL,0.0
+44,2022,Cam Alldred,PIT,0.0
+45,2022,Nick Mears,PIT,0.0
+46,2022,Nate Fisher,NYM,0.0
+48,2022,Ryan Weber,NYY,0.0
+63,2022,Matt Gage,TOR,0.0
+65,2022,Danny Coulombe,MIN,0.0
+99,2022,Jesus Tinoco,TEX,0.0
+110,2022,Christian Bethancourt,- - -,0.0
+111,2022,Michael Kelly,PHI,0.0
+121,2022,Ronny Henriquez,MIN,0.0
+131,2022,Tommy Hunter,NYM,0.0
+135,2022,Miguel Diaz,DET,0.0
+184,2022,Tommy Kahnle,LAD,0.0
+206,2022,Enoli Paredes,HOU,0.0
+209,2022,Tyler Holton,ARI,0.0
+246,2022,Jeremiah Estrada,CHC,0.0
+272,2022,Tyler Thornburg,- - -,0.0
+289,2022,Zack Weiss,LAA,0.0
+292,2022,Jordan Holloway,MIA,0.0
+318,2022,Roenis Elias,SEA,0.0
+330,2022,Nick Neidert,MIA,0.0
+332,2022,Simeon Woods Richardson,MIN,0.0
+337,2022,Beau Sulser,- - -,0.0
+338,2022,Taylor Widener,ARI,0.0
+377,2022,Kody Clemens,DET,0.0
+384,2022,Brennan Bernardino,SEA,0.0
+399,2022,Reiss Knehr,SDP,0.0
+429,2022,Justin Grimm,OAK,0.0
+443,2022,Kenny Rosenberg,LAA,0.0
+451,2022,Danny Young,- - -,0.0
+474,2022,Phillips Valdez,BOS,0.0
+490,2022,Harold Castro,DET,0.0
+493,2022,Pedro Avila,SDP,0.0
+496,2022,Anthony Kay,TOR,0.0
+520,2022,Collin Wiles,OAK,0.0
+524,2022,Robert Gsellman,CHC,0.0
+555,2022,Gregory Santos,SFG,0.0
+557,2022,Justin Topa,MIL,0.0
+615,2022,Ryan Hendrix,CIN,0.0
+617,2022,Matt Peacock,- - -,0.0
+619,2022,Nicholas Padilla,CHC,0.0
+637,2022,Drew Steckenrider,SEA,0.0
+640,2022,Luis Gonzalez,SFG,0.0
+657,2022,Edwin Uceta,ARI,0.0
+681,2022,Anderson Severino,CHW,0.0
+682,2022,Robert Dugger,- - -,0.0
+686,2022,Andrew Vasquez,- - -,0.0
+710,2022,Anthony DeSclafani,SFG,0.0
+718,2022,Matt Reynolds,CIN,0.0
+750,2022,Jake Hager,ARI,0.0
+754,2022,Raynel Espinal,CIN,0.0
+755,2022,Gavin Hollowell,COL,0.0
+757,2022,Sam Coonrod,PHI,0.0
+765,2022,Zac Lowther,BAL,0.0
+768,2022,Foster Griffin,- - -,0.0
+772,2022,Cesar Valdez,LAA,0.0
+773,2022,Chris Owings,BAL,0.0
+774,2022,Tucker Barnhart,DET,0.0
+777,2022,Yolmer Sanchez,BOS,0.0
+778,2022,Jackie Bradley Jr.,BOS,0.0
+780,2022,Jose Castillo,SDP,0.0
+788,2022,Damon Jones,PHI,0.0
+791,2022,Ryan Weathers,SDP,0.0
+795,2022,Caleb Kilian,CHC,0.0
+797,2022,Cam Vieaux,PIT,0.0
+803,2022,Alcides Escobar,WSN,0.0
+812,2022,Pedro Baez,HOU,0.0
+819,2022,Stephen Strasburg,WSN,0.0
+820,2022,Ryan McKenna,BAL,0.0
+821,2022,Jake Walsh,STL,0.0
+824,2022,Cody Sedlock,BAL,0.0
+833,2022,Matt Dermody,CHC,0.0
+839,2022,Shaun Anderson,TOR,0.0
+846,2022,Nick Maton,PHI,0.0
+853,2022,Victor Caratini,MIL,0.0
+854,2022,Chad Pinder,OAK,0.0
+859,2022,Andrelton Simmons,CHC,0.0
+433,2022,Marco Gonzales,SEA,-0.1
+467,2022,Wil Crowe,PIT,-0.1
+350,2022,Devin Smeltzer,MIN,-0.1
+427,2022,Nick Vespi,BAL,-0.1
+510,2022,Dillon Peters,PIT,-0.1
+481,2022,Emilio Pagan,MIN,-0.1
+538,2022,Tyler Alexander,DET,-0.1
+705,2022,Collin Snider,KCR,-0.1
+239,2022,Andrew Kittredge,TBR,-0.1
+303,2022,Ryan Pepiot,LAD,-0.1
+434,2022,Trevor Gott,MIL,-0.1
+71,2022,Angel Zerpa,KCR,-0.1
+257,2022,Andrew Wantz,LAA,-0.1
+263,2022,Albert Abreu,- - -,-0.1
+277,2022,Andres Machado,WSN,-0.1
+320,2022,Bryan Garcia,DET,-0.1
+431,2022,Derek Law,- - -,-0.1
+586,2022,Jackson Tetreault,WSN,-0.1
+650,2022,Alex Colome,COL,-0.1
+698,2022,Josh Fleming,TBR,-0.1
+136,2022,Stephen Nogosek,NYM,-0.1
+264,2022,Anthony Bender,MIA,-0.1
+357,2022,Jarlin Garcia,SFG,-0.1
+381,2022,Justus Sheffield,SEA,-0.1
+394,2022,Blake Taylor,HOU,-0.1
+491,2022,Luis Torrens,SEA,-0.1
+513,2022,Jose Ruiz,CHW,-0.1
+604,2022,Cole Sulser,MIA,-0.1
+621,2022,Yunior Marte,SFG,-0.1
+649,2022,Yoan Lopez,NYM,-0.1
+671,2022,Shane Greene,- - -,-0.1
+695,2022,Kaleb Ort,BOS,-0.1
+724,2022,Jake McGee,- - -,-0.1
+805,2022,Tyson Miller,TEX,-0.1
+827,2022,Oliver Perez,ARI,-0.1
+9,2022,Parker Markel,OAK,-0.1
+95,2022,Angel De Jesus,DET,-0.1
+162,2022,Michael Feliz,BOS,-0.1
+247,2022,Cole Waites,SFG,-0.1
+340,2022,Brandon Bielak,HOU,-0.1
+376,2022,Phil Maton,HOU,-0.1
+382,2022,Cody Poteet,MIA,-0.1
+386,2022,Spencer Patton,TEX,-0.1
+425,2022,Hanser Alberto,LAD,-0.1
+428,2022,Trent Thornton,TOR,-0.1
+437,2022,Evan Lee,WSN,-0.1
+484,2022,Ross Detwiler,CIN,-0.1
+492,2022,Gerardo Reyes,LAA,-0.1
+495,2022,Matthew Batten,SDP,-0.1
+499,2022,Rico Garcia,BAL,-0.1
+512,2022,Adam Kolarek,OAK,-0.1
+535,2022,Jeremy Beasley,TOR,-0.1
+541,2022,Corbin Martin,ARI,-0.1
+553,2022,Alex Wells,BAL,-0.1
+569,2022,James Naile,STL,-0.1
+611,2022,Luke Farrell,- - -,-0.1
+616,2022,Sean Reid-Foley,NYM,-0.1
+636,2022,Eric Stout,- - -,-0.1
+653,2022,Xzavion Curry,CLE,-0.1
+661,2022,Chi Chi Gonzalez,- - -,-0.1
+662,2022,Cole Sands,MIN,-0.1
+668,2022,Max Castillo,- - -,-0.1
+673,2022,Tanner Tully,CLE,-0.1
+683,2022,Silvino Bracho,ATL,-0.1
+685,2022,Paul Fry,- - -,-0.1
+694,2022,Patrick Murphy,WSN,-0.1
+714,2022,David McKay,- - -,-0.1
+715,2022,Reed Garrett,WSN,-0.1
+719,2022,Ian Hamilton,MIN,-0.1
+720,2022,Alejo Lopez,CIN,-0.1
+729,2022,Ethan Small,MIL,-0.1
+731,2022,Ronel Blanco,HOU,-0.1
+732,2022,Tyler Clippard,WSN,-0.1
+740,2022,Carlos Hernandez,KCR,-0.1
+744,2022,Max Meyer,MIA,-0.1
+746,2022,Chad Smith,COL,-0.1
+752,2022,Carson Kelly,ARI,-0.1
+767,2022,Domingo Tapia,OAK,-0.1
+775,2022,Robbie Erlin,LAD,-0.1
+776,2022,Michael A. Taylor,KCR,-0.1
+779,2022,Connor Sadzeck,MIL,-0.1
+782,2022,Ray Kerr,SDP,-0.1
+793,2022,Daniel Duarte,CIN,-0.1
+796,2022,Chris Ellis,BAL,-0.1
+807,2022,Luke Barker,MIL,-0.1
+815,2022,Yu Chang,TBR,-0.1
+816,2022,Austin Wynns,SFG,-0.1
+817,2022,Locke St. John,CHC,-0.1
+826,2022,Jose Butto,NYM,-0.1
+829,2022,Yadier Molina,STL,-0.1
+830,2022,Josh Harrison,CHW,-0.1
+831,2022,Whit Merrifield,TOR,-0.1
+834,2022,Hunter Dozier,KCR,-0.1
+836,2022,Mike Ford,ATL,-0.1
+837,2022,Bubby Rossman,PHI,-0.1
+838,2022,Nicky Lopez,KCR,-0.1
+840,2022,Ernie Clement,CLE,-0.1
+841,2022,Nicklaus Snyder,TEX,-0.1
+843,2022,Noah Davis,COL,-0.1
+850,2022,JC Mejia,MIL,-0.1
+852,2022,Dee Strange-Gordon,WSN,-0.1
+855,2022,Donovan Walton,SFG,-0.1
+856,2022,Albert Pujols,STL,-0.1
+857,2022,Diego Castillo,PIT,-0.1
+860,2022,Max Schrock,CIN,-0.1
+156,2022,Chase De Jong,PIT,-0.2
+364,2022,Brent Suter,MIL,-0.2
+314,2022,Tyler Matzek,ATL,-0.2
+406,2022,Colin Poche,TBR,-0.2
+454,2022,Anibal Sanchez,WSN,-0.2
+487,2022,Aroldis Chapman,NYY,-0.2
+511,2022,Yohan Ramirez,- - -,-0.2
+747,2022,Jhoulys Chacin,COL,-0.2
+367,2022,Luis Perdomo,MIL,-0.2
+413,2022,Garrett Hill,DET,-0.2
+528,2022,Anthony Gose,CLE,-0.2
+627,2022,Bryse Wilson,PIT,-0.2
+269,2022,Manuel Rodriguez,CHC,-0.2
+439,2022,Matt Festa,SEA,-0.2
+522,2022,Erich Uelmen,CHC,-0.2
+634,2022,Austin Warren,LAA,-0.2
+642,2022,Kodi Whitley,STL,-0.2
+704,2022,Art Warren,CIN,-0.2
+168,2022,Eduard Bazardo,BOS,-0.2
+348,2022,Oliver Ortega,LAA,-0.2
+647,2022,Jared Koenig,OAK,-0.2
+707,2022,Chase Silseth,LAA,-0.2
+798,2022,Luis Frias,ARI,-0.2
+811,2022,A.J. Alexy,TEX,-0.2
+402,2022,Will Smith,- - -,-0.2
+477,2022,Ronald Bolanos,KCR,-0.2
+543,2022,Paolo Espino,WSN,-0.2
+556,2022,Sam Selman,OAK,-0.2
+563,2022,JoJo Romero,- - -,-0.2
+587,2022,Kirby Yates,ATL,-0.2
+684,2022,Jesus Cruz,ATL,-0.2
+688,2022,Louis Head,- - -,-0.2
+693,2022,Arodys Vizcaino,KCR,-0.2
+717,2022,Elvis Peguero,LAA,-0.2
+725,2022,Aaron Fletcher,PIT,-0.2
+730,2022,Norge Ruiz,OAK,-0.2
+733,2022,Francisco Morales,PHI,-0.2
+735,2022,Francisco Perez,WSN,-0.2
+737,2022,Wil Myers,SDP,-0.2
+751,2022,Aaron Brooks,STL,-0.2
+761,2022,Matt Koch,SEA,-0.2
+766,2022,Sam Clay,- - -,-0.2
+783,2022,Sam Howard,PIT,-0.2
+794,2022,Kervin Castro,- - -,-0.2
+800,2022,A.J. Ladwig,MIA,-0.2
+801,2022,Jared Solomon,CIN,-0.2
+808,2022,Connor Seabold,BOS,-0.2
+818,2022,Huascar Ynoa,ATL,-0.2
+828,2022,Garrett Stubbs,PHI,-0.2
+832,2022,Brett Phillips,TBR,-0.2
+842,2022,Frank German,BOS,-0.2
+847,2022,Jerad Eickhoff,PIT,-0.2
+849,2022,Nick Gordon,MIN,-0.2
+390,2022,Joey Krehbiel,BAL,-0.3
+324,2022,Jharel Cotton,- - -,-0.3
+687,2022,Adrian Martinez,OAK,-0.3
+378,2022,Joe Barlow,TEX,-0.3
+577,2022,Zack Littell,SFG,-0.3
+635,2022,Jacob Barnes,- - -,-0.3
+764,2022,Bennett Sousa,CHW,-0.3
+236,2022,Brandon Hughes,CHC,-0.3
+278,2022,Ralph Garza,TBR,-0.3
+552,2022,Jake Bird,COL,-0.3
+568,2022,Javy Guerra,- - -,-0.3
+581,2022,Josh Rogers,WSN,-0.3
+585,2022,Tyler Beede,- - -,-0.3
+601,2022,J.B. Wendelken,ARI,-0.3
+613,2022,Jason Alexander,MIL,-0.3
+625,2022,Calvin Faucher,TBR,-0.3
+678,2022,Jeurys Familia,- - -,-0.3
+712,2022,Tucker Davidson,- - -,-0.3
+784,2022,Dallas Keuchel,- - -,-0.3
+336,2022,Sam Long,SFG,-0.3
+368,2022,Justin Bruihl,LAD,-0.3
+421,2022,Miguel Sanchez,MIL,-0.3
+442,2022,Steve Cishek,WSN,-0.3
+605,2022,Keynan Middleton,ARI,-0.3
+610,2022,Tommy Milone,SEA,-0.3
+660,2022,Kirby Snead,OAK,-0.3
+672,2022,Ryan Burr,CHW,-0.3
+703,2022,Chasen Shreve,NYM,-0.3
+763,2022,Jimmy Yacabonis,- - -,-0.3
+771,2022,Miguel Yajure,PIT,-0.3
+785,2022,Kohei Arihara,TEX,-0.3
+809,2022,Yennier Cano,- - -,-0.3
+130,2022,Junior Fernandez,- - -,-0.3
+445,2022,Austin Pruitt,OAK,-0.3
+618,2022,Dauri Moreta,CIN,-0.3
+648,2022,Dusten Knight,TBR,-0.3
+709,2022,T.J. McFarland,STL,-0.3
+734,2022,Thomas Szapucki,- - -,-0.3
+738,2022,Jose Marte,LAA,-0.3
+760,2022,Ethan Roberts,CHC,-0.3
+787,2022,Travis Lakins Sr.,BAL,-0.3
+790,2022,Jackson Kowar,KCR,-0.3
+806,2022,Phillip Diehl,CIN,-0.3
+810,2022,R.J. Alvarez,NYM,-0.3
+835,2022,Frank Schwindel,CHC,-0.3
+845,2022,Thomas Hatch,TOR,-0.3
+851,2022,Jake Brentz,KCR,-0.3
+858,2022,Josh VanMeter,PIT,-0.3
+602,2022,Jonathan Heasley,KCR,-0.4
+674,2022,Mike Minor,CIN,-0.4
+583,2022,Tyler Danish,BOS,-0.4
+607,2022,Tommy Henry,ARI,-0.4
+723,2022,Zach Logue,OAK,-0.4
+470,2022,Sean Poppen,ARI,-0.4
+551,2022,Tyler Duffey,MIN,-0.4
+591,2022,Daniel Norris,- - -,-0.4
+603,2022,Jose Alvarez,SFG,-0.4
+654,2022,Michael Pineda,DET,-0.4
+480,2022,Craig Stammen,SDP,-0.4
+748,2022,Vladimir Gutierrez,CIN,-0.4
+792,2022,Andrew Nardi,MIA,-0.4
+597,2022,Tyler Gilbert,ARI,-0.4
+743,2022,Casey Lawrence,TOR,-0.4
+749,2022,Greg Holland,TEX,-0.4
+756,2022,Jacob Lemoine,OAK,-0.4
+822,2022,Tayler Saucedo,TOR,-0.4
+614,2022,Bryan Shaw,CLE,-0.5
+676,2022,Trevor Kelley,MIL,-0.5
+813,2022,Chris Mazza,TBR,-0.5
+814,2022,Bryan Hoeing,MIA,-0.5
+319,2022,Dereck Rodriguez,MIN,-0.5
+598,2022,Cory Abbott,WSN,-0.5
+612,2022,Anderson Espinoza,CHC,-0.5
+742,2022,Anthony Castro,CLE,-0.5
+825,2022,T.J. Zeuch,CIN,-0.5
+848,2022,Darwinzon Hernandez,BOS,-0.5
+565,2022,Jake Diekman,- - -,-0.6
+711,2022,Drew VerHagen,STL,-0.6
+643,2022,Ryan Borucki,- - -,-0.6
+659,2022,Hansel Robles,BOS,-0.6
+759,2022,Luis Patino,TBR,-0.6
+789,2022,Alec Mills,CHC,-0.6
+844,2022,Hunter Gaddis,CLE,-0.6
+572,2022,Josiah Gray,WSN,-0.7
+595,2022,Noe Ramirez,ARI,-0.7
+739,2022,Heath Hembree,- - -,-0.7
+741,2022,Spencer Howard,TEX,-0.7
+679,2022,Justin Dunn,CIN,-0.7
+736,2022,Kolby Allard,TEX,-0.7
+802,2022,Tommy Romero,- - -,-0.7
+506,2022,Kirk McCarty,CLE,-0.8
+518,2022,Genesis Cabrera,STL,-0.8
+692,2022,Elieser Hernandez,MIA,-0.8
+573,2022,Matt Swarmer,CHC,-0.8
+670,2022,Bruce Zimmermann,BAL,-0.8
+770,2022,Sean Newcomb,- - -,-0.8
+430,2022,Caleb Smith,ARI,-0.8
+516,2022,Joe Smith,MIN,-0.8
+745,2022,Sergio Romo,- - -,-0.8
+590,2022,Yusei Kikuchi,TOR,-0.9
+641,2022,Mike Mayers,LAA,-0.9
+608,2022,Ian Kennedy,ARI,-1.0
+799,2022,Elvin Rodriguez,DET,-1.0
+689,2022,Adam Oller,OAK,-1.1
+2,2025,Aaron Judge,NYY,10.1
+13,2025,Cal Raleigh,SEA,9.1
+53,2025,Bobby Witt Jr.,KCR,8.0
+6,2025,Shohei Ohtani,LAD,7.5
+26,2025,Geraldo Perdomo,ARI,7.1
+71,2025,Trea Turner,PHI,6.7
+25,2025,Corbin Carroll,ARI,6.5
+54,2025,Jose Ramirez,CLE,6.3
+76,2025,Francisco Lindor,NYM,6.3
+66,2025,Fernando Tatis Jr.,SDP,6.1
+15,2025,Juan Soto,NYM,5.8
+44,2025,Jeremy Pena,HOU,5.7
+109,2025,Julio Rodriguez,SEA,5.7
+89,2025,Maikel Garcia,KCR,5.6
+175,2025,Pete Crow-Armstrong,CHC,5.4
+7,2025,George Springer,TOR,5.2
+31,2025,Byron Buxton,MIN,5.0
+14,2025,Kyle Schwarber,PHI,4.9
+87,2025,Cody Bellinger,NYY,4.9
+112,2025,Gunnar Henderson,BAL,4.8
+170,2025,Nico Hoerner,CHC,4.8
+32,2025,Matt Olson,ATL,4.7
+126,2025,Alejandro Kirk,TOR,4.7
+5,2025,Nick Kurtz,ATH,4.6
+20,2025,Ketel Marte,ARI,4.6
+59,2025,Junior Caminero,TBR,4.6
+45,2025,Kyle Tucker,CHC,4.5
+82,2025,Jazz Chisholm Jr.,NYY,4.4
+92,2025,Brice Turang,MIL,4.4
+141,2025,Elly De La Cruz,CIN,4.3
+16,2025,Will Smith,LAD,4.1
+118,2025,Wyatt Langford,TEX,4.1
+146,2025,Andy Pages,LAD,4.1
+165,2025,Dillon Dingler,DET,4.1
+17,2025,Kyle Stowers,MIA,4.0
+35,2025,Corey Seager,TEX,4.0
+188,2025,Willy Adames,SFG,4.0
+27,2025,Freddie Freeman,LAD,3.9
+41,2025,Shea Langeliers,ATH,3.9
+34,2025,Vladimir Guerrero Jr.,TOR,3.9
+124,2025,Jarren Duran,BOS,3.9
+51,2025,Bo Bichette,TOR,3.8
+90,2025,Eugenio Suarez,- - -,3.8
+107,2025,Manny Machado,SDP,3.8
+252,2025,Ceddanne Rafaela,BOS,3.8
+121,2025,Matt Chapman,SFG,3.7
+30,2025,Pete Alonso,NYM,3.6
+143,2025,Sal Frelick,MIL,3.6
+149,2025,William Contreras,MIL,3.6
+8,2025,Ronald Acuna Jr.,ATL,3.5
+29,2025,Michael Busch,CHC,3.5
+50,2025,Bryce Harper,PHI,3.5
+60,2025,Alex Bregman,BOS,3.5
+84,2025,Jacob Wilson,ATH,3.5
+302,2025,Masyn Winn,STL,3.5
+57,2025,Hunter Goodman,COL,3.4
+64,2025,Tyler Soderstrom,ATH,3.4
+202,2025,Mookie Betts,LAD,3.4
+37,2025,Rafael Devers,- - -,3.3
+67,2025,James Wood,WSN,3.3
+235,2025,Dansby Swanson,CHC,3.3
+65,2025,Trent Grisham,NYY,3.2
+91,2025,Harrison Bader,- - -,3.2
+135,2025,Zach McKinstry,DET,3.2
+222,2025,Xander Bogaerts,SDP,3.2
+242,2025,Ernie Clement,TOR,3.2
+234,2025,Steven Kwan,CLE,3.2
+455,2025,Patrick Bailey,SFG,3.2
+74,2025,Josh Naylor,- - -,3.1
+75,2025,Drake Baldwin,ATL,3.1
+119,2025,Zach Neto,LAA,3.1
+174,2025,CJ Abrams,WSN,3.1
+213,2025,Bryson Stott,PHI,3.1
+39,2025,Ramon Laureano,- - -,3.0
+58,2025,Ben Rice,NYY,3.0
+81,2025,Ryan O'Hearn,- - -,3.0
+152,2025,Jackson Merrill,SDP,3.0
+155,2025,Brandon Nimmo,NYM,3.0
+189,2025,Trevor Story,BOS,3.0
+265,2025,Austin Wells,NYY,3.0
+40,2025,Yandy Diaz,TBR,2.9
+33,2025,Max Muncy,LAD,2.9
+102,2025,Riley Greene,DET,2.9
+115,2025,Taylor Ward,LAA,2.9
+120,2025,Brendan Donovan,STL,2.9
+156,2025,Jackson Chourio,MIL,2.9
+142,2025,Randy Arozarena,SEA,2.9
+134,2025,Jake Cronenworth,SDP,2.9
+138,2025,TJ Friedl,CIN,2.9
+99,2025,Willson Contreras,STL,2.8
+132,2025,Ian Happ,CHC,2.8
+178,2025,J.P. Crawford,SEA,2.8
+22,2025,Roman Anthony,BOS,2.7
+61,2025,Colson Montgomery,CHW,2.7
+38,2025,Ivan Herrera,STL,2.7
+111,2025,Gabriel Moreno,ARI,2.7
+214,2025,Carlos Narvaez,BOS,2.7
+78,2025,Jorge Polanco,SEA,2.6
+101,2025,Seiya Suzuki,CHC,2.6
+98,2025,Isaac Collins,MIL,2.6
+148,2025,Carson Kelly,CHC,2.6
+147,2025,Gleyber Torres,DET,2.6
+182,2025,Carlos Correa,- - -,2.6
+194,2025,Caleb Durbin,MIL,2.6
+19,2025,Jonathan Aranda,TBR,2.5
+68,2025,Isaac Paredes,HOU,2.5
+241,2025,Xavier Edwards,MIA,2.5
+83,2025,Brent Rooker,ATH,2.4
+103,2025,Christian Yelich,MIL,2.4
+130,2025,Wilyer Abreu,BOS,2.4
+114,2025,Brandon Marsh,PHI,2.4
+190,2025,Jung Hoo Lee,SFG,2.4
+116,2025,Spencer Torkelson,DET,2.3
+173,2025,Brett Baty,NYM,2.3
+187,2025,Mike Yastrzemski,- - -,2.3
+177,2025,Jake Meyers,HOU,2.3
+315,2025,Otto Lopez,MIA,2.3
+42,2025,Jakob Marsee,MIA,2.2
+97,2025,Daulton Varsho,TOR,2.2
+183,2025,Addison Barger,TOR,2.2
+374,2025,Mauricio Dubon,HOU,2.2
+96,2025,Alec Burleson,STL,2.1
+106,2025,Tyler Heineman,TOR,2.1
+151,2025,Jose Altuve,HOU,2.1
+133,2025,Ryan Jeffers,MIN,2.1
+172,2025,Jeff McNeil,NYM,2.1
+250,2025,J.T. Realmuto,PHI,2.1
+236,2025,Jose Caballero,- - -,2.1
+316,2025,Marcus Semien,TEX,2.1
+233,2025,Lawrence Butler,ATH,2.0
+239,2025,Sean Murphy,ATL,2.0
+11,2025,Giancarlo Stanton,NYY,1.9
+80,2025,Kyle Teel,CHW,1.9
+144,2025,Jordan Westburg,BAL,1.9
+253,2025,Ryan McMahon,- - -,1.9
+104,2025,Mike Trout,LAA,1.8
+105,2025,Francisco Alvarez,NYM,1.8
+204,2025,Nathan Lukes,TOR,1.8
+227,2025,Josh Smith,TEX,1.8
+244,2025,Jake Mangum,TBR,1.8
+291,2025,Myles Straw,TOR,1.8
+100,2025,Spencer Horwitz,PIT,1.7
+127,2025,Brandon Lowe,TBR,1.7
+179,2025,Alec Bohm,PHI,1.7
+200,2025,Wenceel Perez,DET,1.7
+198,2025,Austin Riley,ATL,1.7
+225,2025,Miguel Rojas,LAD,1.7
+297,2025,Josh Jung,TEX,1.7
+411,2025,Victor Scott II,STL,1.7
+46,2025,Luke Keaschall,MIN,1.6
+145,2025,Edmundo Sosa,PHI,1.6
+167,2025,Colt Keith,DET,1.6
+286,2025,Yainer Diaz,HOU,1.6
+317,2025,Oneil Cruz,PIT,1.6
+406,2025,Pedro Pages,STL,1.6
+398,2025,Luis Torrens,NYM,1.6
+47,2025,Dominic Canzone,SEA,1.5
+69,2025,Romy Gonzalez,BOS,1.5
+110,2025,Vinnie Pasquantino,KCR,1.5
+125,2025,Kerry Carpenter,DET,1.5
+287,2025,Matt Shaw,CHC,1.5
+308,2025,Jared Triolo,PIT,1.5
+344,2025,Bo Naylor,CLE,1.5
+52,2025,Daylen Lile,WSN,1.4
+128,2025,Matt Wallner,MIN,1.4
+123,2025,Mike Tauchman,CHW,1.4
+162,2025,Nolan Schanuel,LAA,1.4
+185,2025,Evan Carter,TEX,1.4
+224,2025,Lenyn Sosa,CHW,1.4
+248,2025,Kody Clemens,- - -,1.4
+324,2025,Javier Baez,DET,1.4
+343,2025,Michael Harris II,ATL,1.4
+356,2025,Matt McLain,CIN,1.4
+453,2025,Ke'Bryan Hayes,- - -,1.4
+466,2025,Joey Ortiz,MIL,1.4
+73,2025,Davis Schneider,TOR,1.3
+93,2025,Jurickson Profar,ATL,1.3
+108,2025,Heriberto Hernandez,MIA,1.3
+176,2025,Gavin Sheets,SDP,1.3
+201,2025,Danny Jansen,- - -,1.3
+218,2025,Miguel Vargas,CHW,1.3
+206,2025,Joey Bart,PIT,1.3
+274,2025,Cedric Mullins,- - -,1.3
+320,2025,Ozzie Albies,ATL,1.3
+340,2025,Luis Robert Jr.,CHW,1.3
+323,2025,Chase Meidroth,CHW,1.3
+380,2025,Denzel Clarke,ATH,1.3
+384,2025,Daniel Schneemann,CLE,1.3
+140,2025,Jo Adell,LAA,1.2
+154,2025,Kyle Manzardo,CLE,1.2
+163,2025,Austin Hays,CIN,1.2
+129,2025,Marcell Ozuna,ATL,1.2
+259,2025,Jackson Holliday,BAL,1.2
+298,2025,Adley Rutschman,BAL,1.2
+368,2025,Tommy Edman,LAD,1.2
+532,2025,Austin Hedges,CLE,1.2
+10,2025,Jahmai Jones,DET,1.1
+63,2025,Miguel Andujar,- - -,1.1
+161,2025,Alex Jackson,BAL,1.1
+186,2025,Noelvi Marte,CIN,1.1
+193,2025,Tyler Stephenson,CIN,1.1
+196,2025,Heliot Ramos,SFG,1.1
+217,2025,Bryan Reynolds,PIT,1.1
+232,2025,Christian Walker,HOU,1.1
+329,2025,Ramon Urias,- - -,1.1
+352,2025,Kyle Isbel,KCR,1.1
+399,2025,Gabriel Arias,CLE,1.1
+36,2025,Austin Wynns,- - -,1.0
+56,2025,Rob Refsnyder,BOS,1.0
+137,2025,Austin Martin,MIN,1.0
+211,2025,Spencer Steer,CIN,1.0
+221,2025,Blaze Alexander,ARI,1.0
+258,2025,Jesus Sanchez,- - -,1.0
+223,2025,Liam Hicks,MIA,1.0
+281,2025,Kyle Higashioka,TEX,1.0
+285,2025,Graham Pauley,MIA,1.0
+300,2025,Cam Smith,HOU,1.0
+331,2025,Royce Lewis,MIN,1.0
+357,2025,Anthony Volpe,NYY,1.0
+360,2025,Nick Fortes,- - -,1.0
+385,2025,Freddy Fermin,- - -,1.0
+436,2025,Andres Gimenez,TOR,1.0
+463,2025,Jacob Young,WSN,1.0
+169,2025,Rhys Hoskins,MIL,0.9
+150,2025,Alex Call,- - -,0.9
+195,2025,Jordan Beck,COL,0.9
+220,2025,Luis Arraez,SDP,0.9
+269,2025,Ty France,- - -,0.9
+355,2025,Nolan Arenado,STL,0.9
+341,2025,Nick Gonzales,PIT,0.9
+95,2025,Miguel Amaya,CHC,0.8
+122,2025,Jeremiah Jackson,BAL,0.8
+136,2025,Jake Bauers,MIL,0.8
+209,2025,Paul Goldschmidt,NYY,0.8
+199,2025,Victor Caratini,HOU,0.8
+131,2025,Leo Rivas,SEA,0.8
+249,2025,Lourdes Gurriel Jr.,ARI,0.8
+255,2025,Hyeseong Kim,LAD,0.8
+261,2025,Nasim Nunez,WSN,0.8
+282,2025,Ezequiel Tovar,COL,0.8
+334,2025,Reese McGuire,CHC,0.8
+260,2025,Lars Nootbaar,STL,0.8
+461,2025,Tyrone Taylor,NYM,0.8
+9,2025,Carter Jensen,KCR,0.7
+18,2025,Joey Loperfido,TOR,0.7
+43,2025,Carlos Cortes,ATH,0.7
+55,2025,Bryce Johnson,SDP,0.7
+85,2025,Pavin Smith,ARI,0.7
+113,2025,Yoan Moncada,LAA,0.7
+88,2025,Dylan Beavers,BAL,0.7
+160,2025,Andruw Monasterio,MIL,0.7
+158,2025,James McCann,ARI,0.7
+164,2025,Starling Marte,NYM,0.7
+247,2025,Casey Schmitt,SFG,0.7
+289,2025,Luis Garcia Jr.,WSN,0.7
+290,2025,Adam Frazier,- - -,0.7
+321,2025,Javier Sanoja,MIA,0.7
+338,2025,Eli White,ATL,0.7
+307,2025,Chandler Simpson,TBR,0.7
+362,2025,Adolis Garcia,TEX,0.7
+335,2025,Ronny Mauricio,NYM,0.7
+392,2025,Isiah Kiner-Falefa,- - -,0.7
+422,2025,Derek Hill,- - -,0.7
+521,2025,Nick Allen,ATL,0.7
+86,2025,Mickey Moniak,COL,0.6
+79,2025,Jonny DeLuca,TBR,0.6
+77,2025,Drew Millas,WSN,0.6
+72,2025,Jose Fermin,STL,0.6
+192,2025,Michael Helman,TEX,0.6
+215,2025,Teoscar Hernandez,LAD,0.6
+210,2025,Jasson Dominguez,NYY,0.6
+226,2025,Andrew Vaughn,- - -,0.6
+283,2025,Max Kepler,PHI,0.6
+273,2025,Willi Castro,- - -,0.6
+365,2025,Colton Cowser,BAL,0.6
+299,2025,Matt Thaiss,- - -,0.6
+470,2025,Max Schuemann,ATH,0.6
+527,2025,Bryce Teodosio,LAA,0.6
+24,2025,Zach Cole,HOU,0.5
+117,2025,Yordan Alvarez,HOU,0.5
+231,2025,Salvador Perez,KCR,0.5
+288,2025,Connor Norby,MIA,0.5
+306,2025,Christian Koss,SFG,0.5
+351,2025,Alek Thomas,ARI,0.5
+375,2025,Thomas Saggese,STL,0.5
+383,2025,J.C. Escarra,NYY,0.5
+62,2025,Sal Stewart,CIN,0.4
+168,2025,Dominic Smith,SFG,0.4
+184,2025,Amed Rosario,- - -,0.4
+305,2025,Joey Wiemer,MIA,0.4
+263,2025,Mark Vientos,NYM,0.4
+230,2025,Brett Harris,ATH,0.4
+337,2025,Marcelo Mayer,BOS,0.4
+339,2025,Andy Ibanez,DET,0.4
+378,2025,Brenton Doyle,COL,0.4
+353,2025,Blake Perkins,MIL,0.4
+373,2025,Kyren Paris,LAA,0.4
+394,2025,Brayan Rocchio,CLE,0.4
+434,2025,Elias Diaz,SDP,0.4
+435,2025,Ben Williamson,SEA,0.4
+473,2025,Garrett Mitchell,MIL,0.4
+501,2025,Johan Rojas,PHI,0.4
+486,2025,Luisangel Acuna,NYM,0.4
+23,2025,Moises Ballesteros,CHC,0.3
+157,2025,Ryan Fitzgerald,MIN,0.3
+229,2025,Dominic Fletcher,CHW,0.3
+181,2025,Nate Eaton,BOS,0.3
+180,2025,Gavin Lux,CIN,0.3
+212,2025,Jake Fraley,- - -,0.3
+208,2025,Luke Maile,KCR,0.3
+257,2025,Tyler Tolbert,KCR,0.3
+262,2025,DJ LeMahieu,NYY,0.3
+363,2025,Brooks Lee,MIN,0.3
+346,2025,Ha-seong Kim,- - -,0.3
+359,2025,Eric Haase,MIL,0.3
+367,2025,Carlos Santana,- - -,0.3
+426,2025,Jose Trevino,CIN,0.3
+379,2025,Miles Mastrobuoni,SEA,0.3
+423,2025,Kameron Misner,TBR,0.3
+431,2025,Jake Rogers,DET,0.3
+418,2025,Alex Freeland,LAD,0.3
+459,2025,Taylor Walls,TBR,0.3
+465,2025,Rafael Marchan,PHI,0.3
+499,2025,Brandon Lockridge,- - -,0.3
+511,2025,Christian Vazquez,MIN,0.3
+1,2025,Brewer Hicklen,DET,0.2
+139,2025,Korey Lee,CHW,0.2
+159,2025,Troy Johnston,MIA,0.2
+205,2025,Andrew Benintendi,CHW,0.2
+207,2025,Trevor Larnach,MIN,0.2
+254,2025,C.J. Kayfus,CLE,0.2
+243,2025,Tommy Pham,PIT,0.2
+245,2025,Sam Haggerty,TEX,0.2
+264,2025,Coby Mayo,BAL,0.2
+328,2025,Ildemaro Vargas,ARI,0.2
+347,2025,Christian Moore,LAA,0.2
+397,2025,Paul DeJong,WSN,0.2
+407,2025,Yohel Pozo,STL,0.2
+333,2025,Luke Raley,SEA,0.2
+390,2025,Dylan Crews,WSN,0.2
+391,2025,Nacho Alvarez Jr.,ATL,0.2
+402,2025,Parker Meadows,DET,0.2
+432,2025,Andrew Knizner,SFG,0.2
+543,2025,Nathan Church,STL,0.2
+0,2025,Ryne Nelson,ARI,0.1
+3,2025,Trey Lipscomb,WSN,0.1
+48,2025,Brian Navarreto,MIA,0.1
+28,2025,Richie Palacios,TBR,0.1
+12,2025,Petey Halpin,CLE,0.1
+70,2025,Kevin Alcantara,CHC,0.1
+153,2025,George Valera,CLE,0.1
+171,2025,Josh Bell,WSN,0.1
+246,2025,Rowdy Tellez,- - -,0.1
+219,2025,Tomas Nido,DET,0.1
+296,2025,Tristan Gray,TBR,0.1
+256,2025,Zach Dezenzo,HOU,0.1
+354,2025,Brice Matthews,HOU,0.1
+312,2025,Jhonny Pereda,- - -,0.1
+336,2025,Enmanuel Valdez,PIT,0.1
+326,2025,Luis Urias,ATH,0.1
+381,2025,Liover Peguero,PIT,0.1
+393,2025,Nick Loftin,KCR,0.1
+387,2025,Ryan Ritter,COL,0.1
+358,2025,Oswaldo Cabrera,NYY,0.1
+395,2025,Curtis Mead,- - -,0.1
+408,2025,Vidal Brujan,- - -,0.1
+366,2025,Bobby Dalbec,CHW,0.1
+437,2025,Tyler Fitzgerald,SFG,0.1
+478,2025,Drew Gilbert,SFG,0.1
+450,2025,John Rave,KCR,0.1
+476,2025,David Hamilton,BOS,0.1
+515,2025,Jerar Encarnacion,SFG,0.1
+421,2025,Blake Dunn,CIN,0.1
+496,2025,Brett Sullivan,PIT,0.1
+549,2025,Tim Anderson,LAA,0.1
+644,2025,Steward Berroa,MIL,0.1
+4,2025,Tyler Black,MIL,0.0
+21,2025,Rob Brantly,MIA,0.0
+166,2025,Sam Hilliard,COL,0.0
+197,2025,Griffin Conine,MIA,0.0
+277,2025,Jared Young,NYM,0.0
+295,2025,Will Benson,CIN,0.0
+271,2025,Agustin Ramirez,MIA,0.0
+203,2025,Luken Baker,STL,0.0
+216,2025,Omar Narvaez,CHW,0.0
+332,2025,Colby Thomas,ATH,0.0
+314,2025,Adrian Del Castillo,ARI,0.0
+313,2025,Zack Short,HOU,0.0
+310,2025,Jose Tena,WSN,0.0
+322,2025,Billy Cook,PIT,0.0
+278,2025,Justyn-Henry Malloy,DET,0.0
+475,2025,Corey Julks,CHW,0.0
+386,2025,Austin Slater,- - -,0.0
+349,2025,Victor Mesa Jr.,MIA,0.0
+372,2025,Mitch Garver,SEA,0.0
+403,2025,Donovan Solano,- - -,0.0
+382,2025,Rafael Flores,PIT,0.0
+409,2025,Luis Rengifo,LAA,0.0
+417,2025,Tim Tawa,ARI,0.0
+327,2025,Jhostynxon Garcia,BOS,0.0
+400,2025,Gustavo Campero,LAA,0.0
+396,2025,Matt Vierling,DET,0.0
+410,2025,Dane Myers,MIA,0.0
+342,2025,Keston Hiura,COL,0.0
+303,2025,Cesar Salazar,HOU,0.0
+451,2025,Stuart Fairchild,ATL,0.0
+438,2025,Ryan Bliss,SEA,0.0
+464,2025,Esteury Ruiz,LAD,0.0
+429,2025,Alejandro Osuna,TEX,0.0
+441,2025,Kyle Karros,COL,0.0
+495,2025,Travis Jankowski,- - -,0.0
+502,2025,Dom Nunez,CLE,0.0
+519,2025,Owen Caissie,CHC,0.0
+427,2025,Tucker Barnhart,TEX,0.0
+510,2025,Ezequiel Duran,TEX,0.0
+553,2025,Vimael Machin,BAL,0.0
+561,2025,Ali Sanchez,- - -,0.0
+49,2025,David Banuelos,BAL,0.0
+94,2025,Kenedy Corona,HOU,0.0
+581,2025,Bryan Ramos,CHW,0.0
+497,2025,Logan Porter,SFG,0.0
+560,2025,Michael Stefanic,TOR,0.0
+563,2025,Mason McCoy,SDP,0.0
+551,2025,Owen Miller,COL,0.0
+590,2025,Harry Ford,SEA,0.0
+598,2025,Hayden Senger,NYM,0.0
+608,2025,Coco Montes,TBR,0.0
+620,2025,Akil Baddoo,DET,0.0
+619,2025,Luis Guillorme,HOU,0.0
+655,2025,Colin Rea,CHC,0.0
+659,2025,Tyler Alexander,- - -,0.0
+660,2025,Garrett Stubbs,PHI,0.0
+661,2025,Chuckie Robinson,LAD,0.0
+662,2025,Trevor Rogers,BAL,0.0
+664,2025,Terrin Vavra,BAL,0.0
+665,2025,Justin Dean,LAD,0.0
+666,2025,Greg Jones,CHW,0.0
+671,2025,Jack Leiter,TEX,0.0
+672,2025,Shinnosuke Ogasawara,WSN,0.0
+238,2025,Blaine Crim,- - -,-0.1
+228,2025,Gary Sanchez,BAL,-0.1
+279,2025,Jesse Winker,NYM,-0.1
+237,2025,Andrew McCutchen,PIT,-0.1
+266,2025,JJ Bleday,ATH,-0.1
+268,2025,Masataka Yoshida,BOS,-0.1
+319,2025,Jake Burger,TEX,-0.1
+270,2025,Maximo Acosta,MIA,-0.1
+292,2025,Christopher Morel,TBR,-0.1
+318,2025,Nick Sogard,BOS,-0.1
+369,2025,Josh Lowe,TBR,-0.1
+389,2025,Dylan Moore,- - -,-0.1
+413,2025,Angel Martinez,CLE,-0.1
+430,2025,Michael A. Taylor,CHW,-0.1
+460,2025,Manuel Margot,DET,-0.1
+311,2025,David Villar,SFG,-0.1
+458,2025,Dustin Harris,TEX,-0.1
+416,2025,Nick Maton,CHW,-0.1
+452,2025,Darell Hernaiz,ATH,-0.1
+405,2025,Jose Azocar,- - -,-0.1
+447,2025,Brett Wisely,- - -,-0.1
+490,2025,Jake McCarthy,ARI,-0.1
+489,2025,Nick Yorke,PIT,-0.1
+492,2025,Dalton Rushing,LAD,-0.1
+494,2025,Willie MacIver,ATH,-0.1
+488,2025,Chas McCormick,HOU,-0.1
+509,2025,Alan Roden,- - -,-0.1
+482,2025,Michael Siani,STL,-0.1
+526,2025,Daniel Johnson,- - -,-0.1
+518,2025,Jonathan Ornelas,- - -,-0.1
+564,2025,Chadwick Tromp,- - -,-0.1
+547,2025,Henry Davis,PIT,-0.1
+565,2025,Daz Cameron,MIL,-0.1
+567,2025,Cal Stevenson,PHI,-0.1
+580,2025,Dairon Blanco,KCR,-0.1
+595,2025,Rhylan Thomas,SEA,-0.1
+614,2025,Sandy Leon,ATL,-0.1
+588,2025,Jacob Hurtubise,CIN,-0.1
+631,2025,Tyler Callihan,CIN,-0.1
+632,2025,Cesar Prieto,STL,-0.1
+637,2025,Justin Foscue,TEX,-0.1
+607,2025,Will Brennan,CLE,-0.1
+645,2025,Eddie Rosario,- - -,-0.1
+646,2025,Donovan Walton,PHI,-0.1
+647,2025,Samad Taylor,SEA,-0.1
+654,2025,Nick Ahmed,TEX,-0.1
+656,2025,Sergio Alcantara,SFG,-0.1
+658,2025,Aramis Garcia,ARI,-0.1
+663,2025,Jordyn Adams,BAL,-0.1
+667,2025,C.J. Stubbs,WSN,-0.1
+668,2025,Drew Romo,COL,-0.1
+669,2025,Tsung-Che Cheng,PIT,-0.1
+240,2025,Otto Kemp,PHI,-0.2
+272,2025,Brooks Baldwin,CHW,-0.2
+309,2025,Luis Matos,SFG,-0.2
+251,2025,Edgar Quero,CHW,-0.2
+267,2025,Wilmer Flores,SFG,-0.2
+330,2025,Nolan Gorman,STL,-0.2
+293,2025,Kristian Campbell,BOS,-0.2
+376,2025,Taylor Trammell,HOU,-0.2
+448,2025,Jack Winkler,MIA,-0.2
+439,2025,Enrique Hernandez,LAD,-0.2
+445,2025,Victor Robles,SEA,-0.2
+471,2025,Sam Huff,SFG,-0.2
+440,2025,Jose Iglesias,SDP,-0.2
+446,2025,Cooper Hummel,- - -,-0.2
+487,2025,Cavan Biggio,KCR,-0.2
+530,2025,Jorbit Vivas,NYY,-0.2
+533,2025,Anthony Seigler,MIL,-0.2
+566,2025,Carter Kieboom,LAA,-0.2
+569,2025,Billy McKinney,TEX,-0.2
+570,2025,Gage Workman,- - -,-0.2
+529,2025,Bryce Eldridge,SFG,-0.2
+582,2025,Jose Barrero,STL,-0.2
+589,2025,Luis Vazquez,BAL,-0.2
+594,2025,Sebastian Rivero,LAA,-0.2
+585,2025,Garrett Hampson,- - -,-0.2
+621,2025,Blake Sabol,BOS,-0.2
+629,2025,Connor Kaiser,ARI,-0.2
+609,2025,Ji Hwan Bae,PIT,-0.2
+626,2025,Ryan Vilade,- - -,-0.2
+636,2025,Tirso Ornelas,SDP,-0.2
+649,2025,Jon Singleton,HOU,-0.2
+650,2025,J.D. Davis,LAA,-0.2
+652,2025,Will Banfield,CIN,-0.2
+294,2025,Matthew Lugo,LAA,-0.3
+276,2025,Nathaniel Lowe,- - -,-0.3
+304,2025,Tyler O'Neill,BAL,-0.3
+301,2025,Jorge Soler,LAA,-0.3
+280,2025,Jonathan India,KCR,-0.3
+370,2025,Thairo Estrada,COL,-0.3
+414,2025,Cole Young,SEA,-0.3
+491,2025,Matt Gorski,PIT,-0.3
+388,2025,Will Wagner,- - -,-0.3
+442,2025,Justin Turner,CHC,-0.3
+472,2025,Cody Freeman,TEX,-0.3
+467,2025,Travis d'Arnaud,LAA,-0.3
+449,2025,Jonatan Clase,TOR,-0.3
+480,2025,Santiago Espinal,CIN,-0.3
+483,2025,Emmanuel Rivera,BAL,-0.3
+512,2025,Brady House,WSN,-0.3
+513,2025,Carson Williams,TBR,-0.3
+520,2025,Jorge Alfaro,WSN,-0.3
+468,2025,Tyler Wade,SDP,-0.3
+517,2025,Samuel Basallo,BAL,-0.3
+504,2025,Jose Herrera,ARI,-0.3
+516,2025,Brendan Rodgers,HOU,-0.3
+535,2025,Bob Seymour,TBR,-0.3
+554,2025,Austin Barnes,LAD,-0.3
+562,2025,Zack Gelof,ATH,-0.3
+572,2025,Oscar Gonzalez,SDP,-0.3
+587,2025,Kevin Pillar,TEX,-0.3
+597,2025,Oliver Dunn,MIL,-0.3
+596,2025,Zac Veen,COL,-0.3
+592,2025,Jacob Melton,HOU,-0.3
+605,2025,Aaron Schunk,COL,-0.3
+600,2025,Scott Kingery,LAA,-0.3
+622,2025,C.J. Alexander,ATH,-0.3
+633,2025,Shay Whitcomb,HOU,-0.3
+601,2025,Jace Jung,DET,-0.3
+638,2025,Leo Jimenez,TOR,-0.3
+642,2025,Tristin English,ARI,-0.3
+651,2025,Drew Avans,- - -,-0.3
+641,2025,Nicky Lopez,- - -,-0.3
+657,2025,Greg Allen,BAL,-0.3
+275,2025,Warming Bernabel,COL,-0.4
+325,2025,Eric Wagaman,MIA,-0.4
+345,2025,Randal Grichuk,- - -,-0.4
+371,2025,Ryan Mountcastle,BAL,-0.4
+348,2025,Weston Wilson,PHI,-0.4
+401,2025,Max Muncy,ATH,-0.4
+412,2025,Matt Mervis,MIA,-0.4
+420,2025,Johnathan Rodriguez,CLE,-0.4
+419,2025,Dylan Carlson,BAL,-0.4
+425,2025,Gio Urshela,ATH,-0.4
+428,2025,Nolan Jones,CLE,-0.4
+500,2025,Michael Massey,KCR,-0.4
+457,2025,Seth Brown,ATH,-0.4
+508,2025,Chris Taylor,- - -,-0.4
+539,2025,Will Wilson,CLE,-0.4
+550,2025,Andres Chaparro,WSN,-0.4
+556,2025,Jon Berti,CHC,-0.4
+557,2025,Hunter Feduccia,- - -,-0.4
+575,2025,Pablo Reyes,NYY,-0.4
+583,2025,Bryan De La Cruz,ATL,-0.4
+577,2025,Ryan Noda,- - -,-0.4
+593,2025,Austin Nola,COL,-0.4
+604,2025,Jose Miranda,MIN,-0.4
+602,2025,Alan Trejo,COL,-0.4
+612,2025,Jimmy Crooks,STL,-0.4
+610,2025,Jorge Barrosa,ARI,-0.4
+613,2025,Carson McCusker,MIN,-0.4
+618,2025,Cam Devanney,PIT,-0.4
+623,2025,Grant McCray,SFG,-0.4
+617,2025,Yuli Gurriel,SDP,-0.4
+616,2025,Niko Kavadas,LAA,-0.4
+639,2025,Chad Stevens,LAA,-0.4
+627,2025,Ryan Kreidler,DET,-0.4
+634,2025,Jose Siri,NYM,-0.4
+624,2025,Luis Campusano,SDP,-0.4
+653,2025,Nick Solak,PIT,-0.4
+670,2025,Tristan Peters,TBR,-0.4
+433,2025,Alexander Canario,PIT,-0.5
+454,2025,Jonah Heim,TEX,-0.5
+484,2025,Braxton Fulford,COL,-0.5
+481,2025,Nick Martini,COL,-0.5
+503,2025,Robert Hassell III,WSN,-0.5
+528,2025,Denzer Guzman,LAA,-0.5
+524,2025,Jordan Lawlar,ARI,-0.5
+537,2025,James Outman,- - -,-0.5
+506,2025,Jack Suwinski,PIT,-0.5
+538,2025,Jarred Kelenic,ATL,-0.5
+552,2025,Tim Elko,CHW,-0.5
+540,2025,Lane Thomas,CLE,-0.5
+571,2025,Jason Heyward,SDP,-0.5
+574,2025,Jorge Mateo,BAL,-0.5
+576,2025,Everson Pereira,TBR,-0.5
+591,2025,Trenton Brooks,SDP,-0.5
+578,2025,Ben Rortvedt,- - -,-0.5
+606,2025,Rece Hinds,CIN,-0.5
+603,2025,Kris Bryant,COL,-0.5
+615,2025,Luke Williams,ATL,-0.5
+640,2025,Buddy Kennedy,- - -,-0.5
+284,2025,Nick Castellanos,PHI,-0.6
+350,2025,Michael Conforto,LAD,-0.6
+474,2025,Christian Encarnacion-Strand,CIN,-0.6
+443,2025,Drew Waters,KCR,-0.6
+485,2025,David Fry,CLE,-0.6
+493,2025,Triston Casas,BOS,-0.6
+479,2025,Ronny Simon,- - -,-0.6
+507,2025,Riley Adams,WSN,-0.6
+558,2025,Logan Davidson,- - -,-0.6
+555,2025,Endy Rodriguez,PIT,-0.6
+625,2025,MJ Melendez,KCR,-0.6
+648,2025,Maverick Handley,BAL,-0.6
+191,2025,Tyler Freeman,COL,-0.7
+361,2025,Abraham Toro,BOS,-0.7
+424,2025,Joshua Palacios,CHW,-0.7
+525,2025,Mark Canha,KCR,-0.7
+522,2025,Tyler Locklear,ARI,-0.7
+546,2025,Connor Wong,BOS,-0.7
+559,2025,Sean Bouchard,COL,-0.7
+548,2025,Mickey Gasper,MIN,-0.7
+579,2025,Kevin Newman,LAA,-0.7
+586,2025,Jonah Bride,- - -,-0.7
+599,2025,Jeimer Candelario,CIN,-0.7
+364,2025,Edouard Julien,MIN,-0.8
+415,2025,Logan O'Hoppe,LAA,-0.8
+404,2025,Joc Pederson,TEX,-0.8
+444,2025,Yanquiel Fernandez,COL,-0.8
+505,2025,Martin Maldonado,SDP,-0.8
+545,2025,Leody Taveras,- - -,-0.8
+544,2025,Connor Joe,- - -,-0.8
+573,2025,Oswald Peraza,- - -,-0.8
+630,2025,Will Robertson,- - -,-0.8
+643,2025,Jacob Amaya,CHW,-0.8
+462,2025,Alex Verdugo,ATL,-0.9
+498,2025,Anthony Santander,TOR,-0.9
+523,2025,Trey Sweeney,DET,-0.9
+541,2025,Orlando Arcia,- - -,-0.9
+536,2025,Adael Amador,COL,-0.9
+568,2025,Hunter Renfroe,KCR,-0.9
+628,2025,Vinny Capra,- - -,-0.9
+635,2025,DaShawn Keirsey Jr.,MIN,-0.9
+377,2025,Kyle Farmer,COL,-1.0
+469,2025,Keibert Ruiz,WSN,-1.0
+514,2025,Heston Kjerstad,BAL,-1.1
+584,2025,Jhonkensy Noel,CLE,-1.1
+477,2025,Jordan Walker,STL,-1.2
+542,2025,Josh Rojas,CHW,-1.3
+611,2025,Jacob Stallings,- - -,-1.5
+534,2025,Jac Caglianone,KCR,-1.6
+531,2025,LaMonte Wade Jr.,- - -,-1.6
+456,2025,Michael Toglia,COL,-2.2
+94,2025,Tarik Skubal,DET,6.6
+73,2025,Paul Skenes,PIT,6.5
+133,2025,Cristopher Sanchez,PHI,6.4
+140,2025,Garrett Crochet,BOS,5.8
+248,2025,Logan Webb,SFG,5.5
+360,2025,Jesus Luzardo,PHI,5.3
+131,2025,Yoshinobu Yamamoto,LAD,5.0
+176,2025,Max Fried,NYY,4.8
+116,2025,Hunter Brown,HOU,4.6
+311,2025,Kevin Gausman,TOR,4.1
+321,2025,Framber Valdez,HOU,4.0
+242,2025,Ranger Suarez,PHI,4.0
+157,2025,Zack Wheeler,PHI,4.0
+178,2025,Andrew Abbott,CIN,3.9
+180,2025,Nick Pivetta,SDP,3.7
+63,2025,Nathan Eovaldi,TEX,3.7
+154,2025,Freddy Peralta,MIL,3.6
+187,2025,Bryan Woo,SEA,3.6
+437,2025,Sonny Gray,STL,3.6
+345,2025,Michael Wacha,KCR,3.6
+139,2025,Chris Sale,ATL,3.6
+243,2025,Matthew Boyd,CHC,3.4
+192,2025,Jacob deGrom,TEX,3.4
+482,2025,Dylan Cease,SDP,3.4
+68,2025,Trevor Rogers,BAL,3.3
+137,2025,Kris Bubic,KCR,3.3
+219,2025,Carlos Rodon,NYY,3.2
+283,2025,Joe Ryan,MIN,3.1
+294,2025,Merrill Kelly,- - -,3.1
+417,2025,David Peterson,NYM,3.1
+430,2025,Jose Soriano,LAA,3.0
+382,2025,Brady Singer,CIN,2.9
+164,2025,Hunter Greene,CIN,2.9
+405,2025,MacKenzie Gore,WSN,2.9
+263,2025,Nick Lodolo,CIN,2.8
+186,2025,Cade Smith,CLE,2.7
+300,2025,Luis Castillo,SEA,2.6
+412,2025,Dean Kremer,BAL,2.6
+285,2025,Logan Gilbert,SEA,2.6
+44,2025,Aroldis Chapman,BOS,2.6
+298,2025,Chad Patrick,MIL,2.6
+267,2025,Clayton Kershaw,LAD,2.5
+166,2025,Drew Rasmussen,TBR,2.5
+480,2025,Luis Severino,ATH,2.5
+498,2025,Jack Flaherty,DET,2.5
+375,2025,Yusei Kikuchi,LAA,2.5
+406,2025,Janson Junk,MIA,2.5
+410,2025,Mitch Keller,PIT,2.5
+544,2025,Kyle Freeland,COL,2.5
+353,2025,Casey Mize,DET,2.4
+369,2025,Chris Bassitt,TOR,2.4
+415,2025,George Kirby,SEA,2.4
+221,2025,Spencer Schwellenbach,ATL,2.4
+346,2025,Jack Leiter,TEX,2.3
+259,2025,Adrian Houser,- - -,2.3
+86,2025,Adrian Morejon,SDP,2.2
+153,2025,Cade Horton,CHC,2.2
+319,2025,Robbie Ray,SFG,2.2
+98,2025,Garrett Whitlock,BOS,2.2
+338,2025,Shane Smith,CHW,2.2
+342,2025,Justin Verlander,SFG,2.2
+100,2025,Bryan Abreu,HOU,2.2
+463,2025,Nick Martinez,CIN,2.1
+458,2025,Will Warren,NYY,2.1
+79,2025,Jhoan Duran,- - -,2.1
+172,2025,Emmet Sheehan,LAD,2.1
+504,2025,Cole Ragans,KCR,2.1
+352,2025,Ryan Pepiot,TBR,2.0
+280,2025,Lucas Giolito,BOS,2.0
+531,2025,Shane Baz,TBR,2.0
+296,2025,Edward Cabrera,MIA,2.0
+275,2025,Ryne Nelson,ARI,2.0
+55,2025,Edwin Diaz,NYM,2.0
+101,2025,David Bednar,- - -,2.0
+144,2025,Mason Miller,- - -,2.0
+262,2025,Quinn Priester,MIL,1.9
+297,2025,Clay Holmes,NYM,1.9
+425,2025,Tanner Bibee,CLE,1.9
+264,2025,Brayan Bello,BOS,1.9
+366,2025,Colin Rea,CHC,1.9
+427,2025,Eury Perez,MIA,1.9
+454,2025,Patrick Corbin,TEX,1.9
+92,2025,Tyler Mahle,TEX,1.9
+108,2025,Blake Snell,LAD,1.9
+193,2025,Robert Suarez,SDP,1.9
+64,2025,Andres Munoz,SEA,1.9
+179,2025,Shohei Ohtani,LAD,1.9
+196,2025,Noah Cameron,KCR,1.8
+414,2025,Matthew Liberatore,STL,1.8
+515,2025,Kyle Hendricks,LAA,1.8
+240,2025,Brandon Woodruff,MIL,1.8
+206,2025,Will Vest,DET,1.8
+552,2025,Taj Bradley,- - -,1.8
+161,2025,Pablo Lopez,MIN,1.8
+573,2025,Brandon Pfaadt,ARI,1.7
+397,2025,Jeffrey Springs,ATH,1.7
+583,2025,Sandy Alcantara,MIA,1.7
+428,2025,Logan Allen,CLE,1.7
+293,2025,Stephen Kolek,- - -,1.7
+143,2025,Gabe Speier,SEA,1.7
+58,2025,Abner Uribe,MIL,1.7
+188,2025,Jack Dreyer,LAD,1.7
+160,2025,Sean Newcomb,- - -,1.7
+537,2025,Grant Taylor,CHW,1.7
+421,2025,Griffin Jax,- - -,1.7
+378,2025,Graham Ashcraft,CIN,1.6
+132,2025,Trevor Megill,MIL,1.6
+301,2025,Carmen Mlodzinski,PIT,1.6
+158,2025,Braxton Ashcraft,PIT,1.6
+237,2025,Tyler Glasnow,LAD,1.6
+205,2025,Steven Okert,HOU,1.6
+336,2025,Zack Littell,- - -,1.5
+245,2025,Joey Cantillo,CLE,1.5
+365,2025,Tylor Megill,NYM,1.5
+440,2025,Justin Wrobleski,LAD,1.5
+170,2025,Phil Maton,- - -,1.5
+163,2025,Matt Strahm,PHI,1.5
+215,2025,Gavin Williams,CLE,1.4
+234,2025,Eric Lauer,TOR,1.4
+208,2025,Kodai Senga,NYM,1.4
+608,2025,Zebby Matthews,MIN,1.4
+103,2025,Shawn Armstrong,TEX,1.4
+216,2025,Kyle Leahy,STL,1.4
+229,2025,Reese Olson,DET,1.4
+467,2025,Jose A. Ferrer,WSN,1.4
+520,2025,Devin Williams,NYY,1.4
+66,2025,Randy Rodriguez,SFG,1.4
+569,2025,Cade Povich,BAL,1.4
+485,2025,Chase Burns,CIN,1.4
+407,2025,Jose Berrios,TOR,1.3
+550,2025,Eduardo Rodriguez,ARI,1.3
+95,2025,Ronny Henriquez,MIA,1.3
+396,2025,Davis Martin,CHW,1.3
+496,2025,Ben Casparius,LAD,1.3
+543,2025,Tyler Alexander,- - -,1.3
+74,2025,Tyler Rogers,- - -,1.3
+83,2025,Brad Keller,CHC,1.3
+190,2025,Cameron Schlittler,NYY,1.3
+211,2025,Brendon Little,TOR,1.3
+261,2025,Clarke Schmidt,NYY,1.3
+174,2025,Jacob Latz,TEX,1.3
+363,2025,Mike Burrows,PIT,1.3
+130,2025,Jimmy Herget,COL,1.3
+71,2025,Jason Adam,SDP,1.2
+384,2025,Simeon Woods Richardson,MIN,1.2
+392,2025,Jacob Lopez,ATH,1.2
+497,2025,Michael Lorenzen,KCR,1.2
+181,2025,Hurston Waldrep,ATL,1.2
+560,2025,Bailey Ober,MIN,1.2
+80,2025,Nolan McLean,NYM,1.2
+89,2025,Aaron Ashby,MIL,1.2
+367,2025,Reid Detmers,LAA,1.2
+443,2025,Brad Lord,WSN,1.2
+447,2025,Jacob Misiorowski,MIL,1.2
+91,2025,Dennis Santana,PIT,1.2
+194,2025,Louie Varland,- - -,1.2
+289,2025,Kyle Finnegan,- - -,1.2
+657,2025,Trevor Williams,WSN,1.2
+526,2025,Zac Gallen,ARI,1.1
+323,2025,Jameson Taillon,CHC,1.1
+333,2025,Landen Roupp,SFG,1.1
+78,2025,Josh Hader,HOU,1.1
+175,2025,Bennett Sousa,HOU,1.1
+213,2025,Steven Matz,- - -,1.1
+251,2025,Emmanuel Clase,CLE,1.1
+610,2025,Joey Wentz,- - -,1.1
+634,2025,Ben Brown,CHC,1.1
+122,2025,Carlos Estevez,KCR,1.1
+315,2025,Ian Seymour,TBR,1.1
+148,2025,Caleb Thielbar,CHC,1.1
+478,2025,Michael Soroka,- - -,1.1
+107,2025,Connelly Early,BOS,1.1
+118,2025,Tony Santillan,CIN,1.1
+136,2025,Kyle Bradish,BAL,1.1
+72,2025,Matt Svanson,STL,1.0
+173,2025,Pete Fairbanks,TBR,1.0
+207,2025,Alex Vesia,LAD,1.0
+244,2025,Raisel Iglesias,ATL,1.0
+265,2025,Justin Wilson,BOS,1.0
+288,2025,Jeremiah Estrada,SDP,1.0
+401,2025,Hunter Dobbins,BOS,1.0
+159,2025,Parker Messick,CLE,1.0
+341,2025,Hoby Milner,TEX,1.0
+183,2025,Emilio Pagan,CIN,1.0
+320,2025,Ryan Bergert,- - -,1.0
+184,2025,Daniel Palencia,CHC,1.0
+332,2025,Edwin Uceta,TBR,0.9
+325,2025,Shota Imanaga,CHC,0.9
+617,2025,Mitchell Parker,WSN,0.9
+149,2025,Lucas Erceg,KCR,0.9
+456,2025,Michael McGreevy,STL,0.9
+575,2025,Bryce Elder,ATL,0.9
+330,2025,Griffin Canning,NYM,0.9
+462,2025,Spencer Strider,ATL,0.9
+177,2025,Jared Koenig,MIL,0.9
+370,2025,Tyler Kinley,- - -,0.9
+645,2025,Aaron Nola,PHI,0.9
+82,2025,JoJo Romero,STL,0.9
+231,2025,Seranthony Dominguez,- - -,0.9
+377,2025,Grant Holmes,ATL,0.9
+381,2025,Bubba Chandler,PIT,0.9
+449,2025,Luis L. Ortiz,CLE,0.9
+530,2025,Aaron Civale,- - -,0.9
+494,2025,Cristian Javier,HOU,0.9
+356,2025,Justin Topa,MIN,0.9
+371,2025,Jose Quintana,MIL,0.8
+156,2025,Braydon Fisher,TOR,0.8
+542,2025,Dustin May,- - -,0.8
+614,2025,Ryan Gusto,- - -,0.8
+217,2025,Tanner Banks,PHI,0.8
+340,2025,Randy Vasquez,SDP,0.8
+286,2025,Michael King,SDP,0.8
+310,2025,Caleb Ferguson,- - -,0.8
+400,2025,Matt Festa,CLE,0.8
+276,2025,Andrew Kittredge,- - -,0.8
+476,2025,Cole Sands,MIN,0.8
+556,2025,J.T. Ginn,ATH,0.8
+65,2025,Logan Henderson,MIL,0.8
+124,2025,Brooks Raley,NYM,0.8
+303,2025,Fernando Cruz,NYY,0.8
+357,2025,Reed Garrett,NYM,0.8
+76,2025,Tommy Nance,TOR,0.8
+223,2025,Hunter Gaddis,CLE,0.8
+128,2025,Matt Brash,SEA,0.8
+266,2025,Brandon Walter,HOU,0.8
+299,2025,Martin Perez,CHW,0.8
+258,2025,Orion Kerkering,PHI,0.7
+438,2025,Slade Cecconi,CLE,0.7
+171,2025,Greg Weissert,BOS,0.7
+577,2025,Andre Pallante,STL,0.7
+168,2025,Bryan King,HOU,0.7
+581,2025,Chris Paddack,- - -,0.7
+419,2025,Sean Burke,CHW,0.7
+151,2025,Corbin Burnes,ARI,0.7
+90,2025,Drew Pomeranz,CHC,0.7
+102,2025,Danny Coulombe,- - -,0.7
+110,2025,Garrett Cleavinger,TBR,0.7
+145,2025,Brock Stewart,- - -,0.7
+146,2025,Kolby Allard,CLE,0.7
+281,2025,Luis Garcia,- - -,0.7
+368,2025,Juan Mejia,COL,0.7
+85,2025,Manuel Rodriguez,TBR,0.7
+409,2025,Gregory Soto,- - -,0.7
+528,2025,Mark Leiter Jr.,NYY,0.6
+670,2025,Tanner Gordon,COL,0.6
+141,2025,Kenley Jansen,LAA,0.6
+398,2025,Ryan Walker,SFG,0.6
+117,2025,Brant Hurter,DET,0.6
+162,2025,Shelby Miller,- - -,0.6
+191,2025,Jakob Junis,CLE,0.6
+226,2025,Brennan Bernardino,BOS,0.6
+260,2025,Luis Gil,NYY,0.6
+309,2025,Camilo Doval,- - -,0.6
+123,2025,Isaac Mattson,PIT,0.6
+203,2025,Brenan Hanifee,DET,0.6
+343,2025,AJ Smith-Shawver,ATL,0.6
+394,2025,Ronel Blanco,HOU,0.6
+195,2025,Chris Martin,TEX,0.6
+241,2025,Hogan Harris,ATH,0.6
+105,2025,Andrew Alvarez,WSN,0.6
+142,2025,Felix Bautista,BAL,0.6
+339,2025,Mason Englert,TBR,0.6
+519,2025,Brandon Sproat,NYM,0.6
+551,2025,JP Sears,- - -,0.5
+402,2025,Seth Lugo,KCR,0.5
+461,2025,Bailey Falter,- - -,0.5
+227,2025,Wandy Peralta,SDP,0.5
+135,2025,Eduard Bazardo,SEA,0.5
+291,2025,Nick Mears,MIL,0.5
+355,2025,Jose Butto,- - -,0.5
+358,2025,Jordan Leasure,CHW,0.5
+390,2025,Taijuan Walker,PHI,0.5
+189,2025,Robert Garcia,TEX,0.5
+209,2025,Victor Vodnik,COL,0.5
+228,2025,Luis Morales,ATH,0.5
+314,2025,Luke Weaver,NYY,0.5
+388,2025,Bryan Baker,- - -,0.5
+606,2025,Jake Bird,- - -,0.5
+393,2025,Dietrich Enns,- - -,0.5
+429,2025,Cade Cavalli,WSN,0.5
+509,2025,Max Meyer,MIA,0.5
+667,2025,Gordon Graceffo,STL,0.5
+47,2025,Andrew Saalfrank,ARI,0.5
+4,2025,Hunter Harvey,KCR,0.5
+41,2025,Justin Lawrence,PIT,0.5
+383,2025,Kyle Harrison,- - -,0.5
+505,2025,Joe Boyle,TBR,0.5
+239,2025,Matt Gage,- - -,0.5
+448,2025,Enyel De Los Santos,- - -,0.4
+134,2025,Mike Vasil,CHW,0.4
+308,2025,Huascar Brazoban,NYM,0.4
+568,2025,Max Scherzer,TOR,0.4
+584,2025,Yu Darvish,SDP,0.4
+292,2025,Kody Funderburk,MIN,0.4
+354,2025,Tyler Gilbert,CHW,0.4
+379,2025,Spencer Bivens,SFG,0.4
+626,2025,Jonathan Cannon,CHW,0.4
+647,2025,Cal Quantrill,- - -,0.4
+88,2025,Anthony Bender,MIA,0.4
+337,2025,Aaron Bummer,ATL,0.4
+411,2025,Jackson Perkins,ATH,0.4
+75,2025,Cole Sulser,TBR,0.4
+249,2025,Ben Lively,CLE,0.4
+250,2025,Grant Anderson,MIL,0.4
+282,2025,Steven Wilson,CHW,0.4
+423,2025,Justin Slaten,BOS,0.4
+612,2025,Sean Manaea,NYM,0.4
+67,2025,Trevor McDonald,SFG,0.4
+114,2025,Andrew Chafin,- - -,0.4
+246,2025,Trey Yesavage,TOR,0.4
+290,2025,DL Hall,MIL,0.4
+302,2025,Tobias Myers,MIL,0.4
+489,2025,Zack Kelly,BOS,0.4
+328,2025,JT Brubaker,- - -,0.4
+455,2025,Taylor Rashi,ARI,0.4
+513,2025,Ryan Feltner,COL,0.4
+629,2025,Charlie Morton,- - -,0.3
+527,2025,Miles Mikolas,STL,0.3
+268,2025,Brock Burke,LAA,0.3
+682,2025,Jorge Lopez,WSN,0.3
+408,2025,Angel Zerpa,KCR,0.3
+147,2025,Cade Gibson,MIA,0.3
+235,2025,Justin Sterner,ATH,0.3
+306,2025,Shane Bieber,TOR,0.3
+316,2025,Javier Assad,CHC,0.3
+335,2025,Jose Alvarado,PHI,0.3
+502,2025,Tyler Ferguson,ATH,0.3
+622,2025,Kumar Rocker,TEX,0.3
+81,2025,Riley O'Brien,STL,0.3
+212,2025,Pierce Johnson,ATL,0.3
+317,2025,Max Kranick,NYM,0.3
+334,2025,John Schreiber,KCR,0.3
+591,2025,David Festa,MIN,0.3
+689,2025,German Marquez,COL,0.3
+104,2025,Albert Suarez,BAL,0.3
+112,2025,Edgardo Henriquez,LAD,0.3
+185,2025,Tyler Wells,BAL,0.3
+257,2025,Dylan Lee,ATL,0.3
+672,2025,Kai-Wei Teng,SFG,0.3
+703,2025,Jordan Hicks,- - -,0.3
+111,2025,Will Klein,LAD,0.3
+150,2025,Wikelman Gonzalez,CHW,0.3
+152,2025,David Morgan,SDP,0.3
+210,2025,Eric Orze,TBR,0.3
+253,2025,Taylor Clarke,KCR,0.3
+271,2025,Jaden Hill,COL,0.3
+615,2025,Mason Montgomery,TBR,0.3
+45,2025,Cody Laweryson,MIN,0.3
+53,2025,Jayden Murray,HOU,0.3
+56,2025,A.J. Minter,NYM,0.3
+69,2025,Erik Sabrowski,CLE,0.3
+230,2025,Rico Garcia,- - -,0.3
+255,2025,Yerry De Los Santos,NYY,0.3
+413,2025,Juan Morillo,ARI,0.3
+477,2025,Ryan Brasier,CHC,0.3
+182,2025,Connor Phillips,CIN,0.2
+201,2025,Jacob Webb,TEX,0.2
+329,2025,Jalen Beeks,ARI,0.2
+459,2025,Mason Fluharty,TOR,0.2
+518,2025,Jason Alexander,- - -,0.2
+270,2025,Taylor Rogers,- - -,0.2
+326,2025,Steven Cruz,KCR,0.2
+359,2025,Ryan Thompson,ARI,0.2
+474,2025,Ryan Helsley,- - -,0.2
+593,2025,Yohan Ramirez,PIT,0.2
+595,2025,Grant Wolfram,BAL,0.2
+70,2025,Jose Suarez,ATL,0.2
+77,2025,Nic Enright,CLE,0.2
+307,2025,Johan Oviedo,PIT,0.2
+318,2025,PJ Poulin,WSN,0.2
+376,2025,Ryan Weathers,MIA,0.2
+563,2025,Jesus Tinoco,MIA,0.2
+600,2025,Collin Snider,SEA,0.2
+655,2025,Sam Bachman,LAA,0.2
+734,2025,Jonah Tong,NYM,0.2
+48,2025,Luinder Avila,KCR,0.2
+305,2025,Evan Sisk,- - -,0.2
+313,2025,Dylan Dodd,ATL,0.2
+347,2025,Jonathan Bowlan,KCR,0.2
+473,2025,Hayden Wesneski,HOU,0.2
+512,2025,Kyle Nicolas,PIT,0.2
+701,2025,Mason Barnett,ATH,0.2
+720,2025,Kevin Ginkel,ARI,0.2
+9,2025,Evan Phillips,LAD,0.2
+42,2025,Ron Marinaccio,SDP,0.2
+52,2025,Cole Winn,TEX,0.2
+62,2025,Kade Strowd,BAL,0.2
+344,2025,Josh Winckowski,BOS,0.2
+434,2025,Clayton Beeter,- - -,0.2
+442,2025,Danny Young,NYM,0.2
+484,2025,Justin Hagenman,NYM,0.2
+613,2025,Brandyn Garcia,- - -,0.2
+646,2025,Caleb Boushley,TEX,0.2
+660,2025,Paul Blackburn,- - -,0.2
+732,2025,Sammy Peralta,LAA,0.2
+751,2025,Jared Shuster,CHW,0.2
+499,2025,Tomoyuki Sugano,BAL,0.1
+362,2025,Lake Bachar,MIA,0.1
+416,2025,Scott Barlow,CIN,0.1
+236,2025,Anthony Banda,LAD,0.1
+450,2025,Keider Montero,DET,0.1
+51,2025,Erik Miller,SFG,0.1
+420,2025,Jackson Jobe,DET,0.1
+576,2025,Ryne Stanek,NYM,0.1
+59,2025,A.J. Blubaugh,HOU,0.1
+165,2025,Troy Melton,DET,0.1
+218,2025,Yariel Rodriguez,TOR,0.1
+324,2025,Nabil Crismatt,ARI,0.1
+446,2025,Ryan Yarbrough,NYY,0.1
+453,2025,Brandon Eisert,CHW,0.1
+564,2025,Yennier Cano,BAL,0.1
+567,2025,Yoendrys Gomez,- - -,0.1
+659,2025,Mick Abel,- - -,0.1
+661,2025,Marcus Stroman,NYY,0.1
+155,2025,Robert Stephenson,LAA,0.1
+169,2025,Tyler Phillips,MIA,0.1
+483,2025,Tyler Anderson,LAA,0.1
+679,2025,Chase Dollander,COL,0.1
+8,2025,Ryan Burr,TOR,0.1
+40,2025,Hunter Barco,PIT,0.1
+43,2025,Austin Warren,NYM,0.1
+46,2025,Bradgley Rodriguez,SDP,0.1
+49,2025,Cristian Mena,ARI,0.1
+96,2025,J.P. France,HOU,0.1
+106,2025,Brady Basso,ATH,0.1
+238,2025,Elvis Alvarado,ATH,0.1
+252,2025,Dauri Moreta,PIT,0.1
+274,2025,Bryan Hoeing,SDP,0.1
+295,2025,Luis Garcia,HOU,0.1
+351,2025,Yimi Garcia,TOR,0.1
+385,2025,Jose De Leon,BOS,0.1
+399,2025,Justin Martinez,ARI,0.1
+466,2025,Rafael Montero,- - -,0.1
+479,2025,Brent Suter,CIN,0.1
+490,2025,Zak Kent,CLE,0.1
+662,2025,Carlos Hernandez,- - -,0.1
+687,2025,Mitch Farris,LAA,0.1
+5,2025,Nick Burdi,BOS,0.1
+6,2025,Zach Thompson,ATL,0.1
+20,2025,Jose Espada,BAL,0.1
+57,2025,Chase Silseth,LAA,0.1
+61,2025,Darren McCaughan,MIN,0.1
+87,2025,Chris Devenski,NYM,0.1
+97,2025,Tom Cosgrove,CHC,0.1
+167,2025,Kevin Herget,- - -,0.1
+225,2025,Brent Headrick,NYY,0.1
+247,2025,Colin Selby,BAL,0.1
+327,2025,Joey Lucchesi,SFG,0.1
+432,2025,Tyler Matzek,NYY,0.1
+452,2025,Paxton Schultz,TOR,0.1
+471,2025,Keaton Winn,SFG,0.1
+481,2025,Lyon Richardson,CIN,0.1
+492,2025,Ian Gibaut,CIN,0.1
+501,2025,Dedniel Nunez,NYM,0.1
+523,2025,Adam Mazur,MIA,0.1
+540,2025,Philip Abner,ARI,0.1
+558,2025,Pierson Ohl,MIN,0.1
+572,2025,Sean Guenther,DET,0.1
+589,2025,Jesse Scholtens,TBR,0.1
+598,2025,Matt Krook,ATH,0.1
+605,2025,Easton McGee,MIL,0.1
+666,2025,Jordan Wicks,CHC,0.1
+716,2025,Josh Walker,TOR,0.1
+748,2025,Trevor Richards,- - -,0.1
+791,2025,Patrick Monteverde,MIA,0.1
+796,2025,Tanner Rainey,- - -,0.1
+579,2025,Colton Gordon,HOU,0.0
+220,2025,Tim Hill,NYY,0.0
+256,2025,Calvin Faucher,MIA,0.0
+522,2025,Hayden Birdsong,SFG,0.0
+535,2025,Emerson Hancock,SEA,0.0
+557,2025,Grant Holman,ATH,0.0
+616,2025,Bryce Miller,SEA,0.0
+115,2025,Joel Peguero,SFG,0.0
+361,2025,John Curtiss,ARI,0.0
+372,2025,Lou Trivino,- - -,0.0
+516,2025,Justin Steele,CHC,0.0
+559,2025,Mitch Spence,ATH,0.0
+668,2025,Frankie Montas,NYM,0.0
+688,2025,Easton Lucas,TOR,0.0
+127,2025,Rob Zastryzny,MIL,0.0
+436,2025,Ian Hamilton,NYY,0.0
+50,2025,Dylan Smith,DET,0.0
+120,2025,Freddy Tarnok,MIA,0.0
+254,2025,Hunter Strickland,LAA,0.0
+304,2025,Cooper Criswell,BOS,0.0
+350,2025,Dugan Darnell,COL,0.0
+389,2025,Casey Lawrence,- - -,0.0
+424,2025,Fraser Ellard,CHW,0.0
+431,2025,Seth Johnson,PHI,0.0
+487,2025,Paul Sewald,- - -,0.0
+491,2025,Tristan Beck,SFG,0.0
+495,2025,Ryan Borucki,- - -,0.0
+508,2025,Andre Granillo,STL,0.0
+510,2025,Tanner Scott,LAD,0.0
+539,2025,Sauryn Lao,- - -,0.0
+590,2025,Brian Van Belle,TBR,0.0
+619,2025,Luis Curvelo,TEX,0.0
+654,2025,Yosver Zulueta,CIN,0.0
+678,2025,Carlos Rodriguez,MIL,0.0
+726,2025,Michael Darrell-Hicks,- - -,0.0
+811,2025,Noah Murdock,ATH,0.0
+0,2025,Adam Ottavino,NYY,0.0
+1,2025,Casey Kelly,ARI,0.0
+2,2025,Luke Maile,KCR,0.0
+3,2025,Tomas Nido,DET,0.0
+7,2025,Willi Castro,MIN,0.0
+10,2025,Jose Quijada,LAA,0.0
+11,2025,Garrett Hampson,STL,0.0
+12,2025,Weston Wilson,PHI,0.0
+13,2025,Reiver Sanmartin,CIN,0.0
+14,2025,Alex Lange,DET,0.0
+15,2025,Miles Mastrobuoni,SEA,0.0
+16,2025,Alan Trejo,COL,0.0
+17,2025,Jhonathan Diaz,SEA,0.0
+18,2025,Nick Raquet,STL,0.0
+19,2025,Leo Rivas,SEA,0.0
+21,2025,Cesar Salazar,HOU,0.0
+22,2025,Jacob Amaya,CHW,0.0
+23,2025,Luis Vazquez,BAL,0.0
+24,2025,Ezequiel Duran,TEX,0.0
+25,2025,Anthony Seigler,MIL,0.0
+26,2025,Ryan Fitzgerald,MIN,0.0
+27,2025,Willie MacIver,ATH,0.0
+28,2025,Nate Eaton,BOS,0.0
+29,2025,Michael Stefanic,TOR,0.0
+31,2025,Logan Davidson,LAA,0.0
+32,2025,Austin Pope,ARI,0.0
+33,2025,Garrett Acton,TBR,0.0
+34,2025,Alec Burleson,STL,0.0
+35,2025,Christian Koss,SFG,0.0
+36,2025,Christian Roa,MIA,0.0
+37,2025,Niko Kavadas,LAA,0.0
+38,2025,Dominic Hamel,NYM,0.0
+39,2025,Christian Montes De Oca,ARI,0.0
+54,2025,Bailey Horn,DET,0.0
+84,2025,Joey Gerber,TBR,0.0
+93,2025,Nick Sandlin,TOR,0.0
+99,2025,Craig Kimbrel,- - -,0.0
+109,2025,Joe Rock,TBR,0.0
+119,2025,Alan Rangel,PHI,0.0
+125,2025,Michael Kopech,LAD,0.0
+126,2025,Jake Rogers,DET,0.0
+197,2025,Korey Lee,CHW,0.0
+198,2025,Randy Wynne,CIN,0.0
+199,2025,Tyler Owens,DET,0.0
+202,2025,Luke Williams,ATL,0.0
+204,2025,Ty Adcock,NYM,0.0
+269,2025,A.J. Puk,ARI,0.0
+272,2025,Luke Little,CHC,0.0
+273,2025,Hayden Harris,ATL,0.0
+312,2025,Jake Bauers,MIL,0.0
+331,2025,Tim Mayza,- - -,0.0
+348,2025,Jose Trevino,CIN,0.0
+349,2025,Marc Church,TEX,0.0
+380,2025,Michael Petersen,- - -,0.0
+404,2025,Luis Guerrero,BOS,0.0
+445,2025,Connor Seabold,- - -,0.0
+468,2025,Carl Edwards Jr.,- - -,0.0
+469,2025,Jacob Stallings,COL,0.0
+470,2025,Jose Herrera,ARI,0.0
+472,2025,Brett de Geus,PHI,0.0
+486,2025,Yaramil Hiraldo,BAL,0.0
+493,2025,Kyle Backhus,ARI,0.0
+517,2025,Michael Fulmer,- - -,0.0
+525,2025,Gavin Hollowell,CHC,0.0
+538,2025,Omar Cruz,SDP,0.0
+574,2025,Justin Bruihl,TOR,0.0
+588,2025,Davis Daniel,ATL,0.0
+592,2025,Justin Garza,NYM,0.0
+597,2025,Angel Perdomo,ATH,0.0
+621,2025,Bryce Jarvis,ARI,0.0
+628,2025,Carson Fulmer,LAA,0.0
+636,2025,Austin Hedges,CLE,0.0
+637,2025,Chas McCormick,HOU,0.0
+638,2025,Vinny Capra,CHW,0.0
+639,2025,Jack Little,LAD,0.0
+650,2025,Carson Spiers,CIN,0.0
+653,2025,Nick Anderson,COL,0.0
+656,2025,Matt Bowman,BAL,0.0
+676,2025,Jake Woodford,ARI,0.0
+683,2025,Liam Hendriks,BOS,0.0
+693,2025,Jovani Moran,BOS,0.0
+698,2025,Elvis Peguero,- - -,0.0
+709,2025,Isaiah Campbell,BOS,0.0
+722,2025,Jon Berti,CHC,0.0
+730,2025,Brooks Kriske,- - -,0.0
+733,2025,Luis F. Castillo,SEA,0.0
+738,2025,Jose Urquidy,DET,0.0
+752,2025,Jeff Brigham,ARI,0.0
+760,2025,Scott Effross,NYY,0.0
+763,2025,Connor Gillispie,MIA,0.0
+772,2025,Tyler Wade,SDP,0.0
+773,2025,Touki Toussaint,LAA,0.0
+776,2025,Lucas Gilbreath,COL,0.0
+779,2025,Yilber Diaz,ARI,0.0
+780,2025,Jacob Barnes,TOR,0.0
+781,2025,Gerson Garabito,TEX,0.0
+783,2025,Owen White,CHW,0.0
+812,2025,Tucker Barnhart,TEX,0.0
+814,2025,Cody Bolton,CLE,0.0
+815,2025,Doug Nikhazy,CLE,0.0
+823,2025,Carson Ragsdale,BAL,0.0
+824,2025,Jordan Weems,HOU,0.0
+836,2025,Cody Poteet,BAL,0.0
+837,2025,Travis Jankowski,NYM,0.0
+838,2025,Mike Yastrzemski,SFG,0.0
+839,2025,Ali Sanchez,TOR,0.0
+840,2025,Abraham Toro,BOS,0.0
+842,2025,Jake Palisch,CHW,0.0
+850,2025,Alex Jackson,BAL,0.0
+851,2025,Nolan Hoffman,PHI,0.0
+852,2025,Nathan Wiles,ATL,0.0
+853,2025,Cole Wilcox,TBR,0.0
+439,2025,Logan Evans,SEA,-0.1
+277,2025,Chase Shugart,PIT,-0.1
+395,2025,Chase Lee,DET,-0.1
+571,2025,Kirby Yates,LAD,-0.1
+611,2025,Casey Legumina,SEA,-0.1
+685,2025,Antonio Senzatela,COL,-0.1
+533,2025,Landon Knack,LAD,-0.1
+547,2025,Tony Gonsolin,LAD,-0.1
+696,2025,Hector Neris,- - -,-0.1
+364,2025,Jose Castillo,- - -,-0.1
+391,2025,David Robertson,PHI,-0.1
+532,2025,Michael Tonkin,MIN,-0.1
+555,2025,Shawn Dubin,- - -,-0.1
+561,2025,Joe Ross,PHI,-0.1
+594,2025,Blake Treinen,LAD,-0.1
+671,2025,Matt Sauer,LAD,-0.1
+465,2025,Roki Sasaki,LAD,-0.1
+570,2025,Hunter Stratton,- - -,-0.1
+580,2025,Spencer Arrighetti,HOU,-0.1
+587,2025,Julian Fernandez,- - -,-0.1
+664,2025,Brandon Young,BAL,-0.1
+673,2025,Sam Moll,CIN,-0.1
+690,2025,Wade Miley,CIN,-0.1
+712,2025,Spencer Turnbull,TOR,-0.1
+723,2025,Ryan Johnson,LAA,-0.1
+742,2025,Sean Hjelle,SFG,-0.1
+744,2025,Chris Roycroft,STL,-0.1
+802,2025,Mason Thompson,WSN,-0.1
+30,2025,Jared Triolo,PIT,-0.1
+60,2025,Randy Dobnak,MIN,-0.1
+121,2025,Erasmo Ramirez,MIN,-0.1
+200,2025,Drey Jameson,ARI,-0.1
+232,2025,Robert Gasser,MIL,-0.1
+287,2025,Brandon Waddell,NYM,-0.1
+403,2025,Daniel Robert,PHI,-0.1
+418,2025,Ben Bowden,ATH,-0.1
+433,2025,Dillon Tate,TOR,-0.1
+475,2025,Zach Maxwell,CIN,-0.1
+488,2025,Jose Urena,- - -,-0.1
+524,2025,Bryan Hudson,- - -,-0.1
+536,2025,Jake Eder,LAA,-0.1
+554,2025,Logan VanWey,HOU,-0.1
+586,2025,Reynaldo Lopez,ATL,-0.1
+596,2025,Seth Martinez,MIA,-0.1
+599,2025,Caleb Freeman,CHW,-0.1
+618,2025,Roansy Contreras,- - -,-0.1
+624,2025,Julian Merryweather,CHC,-0.1
+644,2025,Xzavion Curry,MIA,-0.1
+691,2025,Scott McGough,- - -,-0.1
+692,2025,Kevin Newman,LAA,-0.1
+694,2025,Mason Black,SFG,-0.1
+695,2025,Luis Contreras,HOU,-0.1
+697,2025,John Rooney,HOU,-0.1
+700,2025,Joel Payamps,- - -,-0.1
+702,2025,T.J. McFarland,ATH,-0.1
+704,2025,Dane Dunning,- - -,-0.1
+725,2025,Tayler Saucedo,SEA,-0.1
+731,2025,Miguel Castro,CHW,-0.1
+736,2025,Chris Stratton,- - -,-0.1
+739,2025,Robinson Pina,- - -,-0.1
+740,2025,Matt Waldron,SDP,-0.1
+743,2025,Penn Murfee,CHW,-0.1
+745,2025,Kenta Maeda,DET,-0.1
+749,2025,Mike Clevinger,CHW,-0.1
+762,2025,Lazaro Estrada,TOR,-0.1
+764,2025,Allan Winans,NYY,-0.1
+765,2025,Andry Lara,WSN,-0.1
+770,2025,Kyle Farmer,COL,-0.1
+771,2025,Reese McGuire,CHC,-0.1
+775,2025,Logan Porter,SFG,-0.1
+777,2025,Will Wilson,CLE,-0.1
+778,2025,Blas Castano,SEA,-0.1
+792,2025,Robert Stock,BOS,-0.1
+795,2025,Triston McKenzie,CLE,-0.1
+799,2025,Luarbert Arias,MIA,-0.1
+801,2025,Ian Anderson,LAA,-0.1
+809,2025,Bobby Miller,LAD,-0.1
+813,2025,Rowdy Tellez,TEX,-0.1
+819,2025,Andrew Walters,CLE,-0.1
+820,2025,Vidal Brujan,ATL,-0.1
+826,2025,Michael Mercado,PHI,-0.1
+827,2025,Jonah Bride,MIN,-0.1
+828,2025,Enrique Hernandez,LAD,-0.1
+841,2025,Kody Clemens,MIN,-0.1
+844,2025,Drew Sommers,DET,-0.1
+847,2025,Jhonny Pereda,ATH,-0.1
+849,2025,Pablo Reyes,NYY,-0.1
+854,2025,Oswald Peraza,LAA,-0.1
+855,2025,Tyler Heineman,TOR,-0.1
+856,2025,Gary Sanchez,BAL,-0.1
+857,2025,Amed Rosario,WSN,-0.1
+858,2025,Scott Kingery,LAA,-0.1
+859,2025,Cooper Hummel,HOU,-0.1
+860,2025,Jorge Mateo,BAL,-0.1
+861,2025,Jose Caballero,TBR,-0.1
+862,2025,Austin Nola,COL,-0.1
+863,2025,Emmanuel Rivera,BAL,-0.1
+214,2025,Daniel Lynch IV,KCR,-0.2
+322,2025,Tyler Holton,DET,-0.2
+233,2025,Michael Kelly,ATH,-0.2
+602,2025,Erick Fedde,- - -,-0.2
+224,2025,Chris Murphy,BOS,-0.2
+630,2025,Kyle Hart,SDP,-0.2
+284,2025,Luis Mey,CIN,-0.2
+387,2025,Luke Jackson,- - -,-0.2
+422,2025,Jackson Kowar,SEA,-0.2
+677,2025,Lance McCullers Jr.,HOU,-0.2
+711,2025,Carlos Carrasco,- - -,-0.2
+457,2025,Tommy Kahnle,DET,-0.2
+500,2025,Valente Bellozo,MIA,-0.2
+521,2025,Max Lazar,PHI,-0.2
+566,2025,Gregory Santos,SEA,-0.2
+640,2025,Corbin Martin,BAL,-0.2
+641,2025,Ethan Roberts,CHC,-0.2
+642,2025,Andrew Hoffmann,- - -,-0.2
+663,2025,Ben Joyce,LAA,-0.2
+713,2025,Eduarniel Nunez,- - -,-0.2
+714,2025,Kendall Graveman,ARI,-0.2
+737,2025,John Brebbia,- - -,-0.2
+766,2025,Jose Ruiz,- - -,-0.2
+807,2025,Colin Poche,- - -,-0.2
+829,2025,Erik Swanson,TOR,-0.2
+113,2025,Hunter Bigge,TBR,-0.2
+129,2025,Dan Altavilla,CHW,-0.2
+138,2025,Logan Gillaspie,SDP,-0.2
+386,2025,Tommy Henry,ARI,-0.2
+441,2025,Paul Gervase,- - -,-0.2
+507,2025,Anthony Veneziano,- - -,-0.2
+546,2025,Rich Hill,KCR,-0.2
+553,2025,Nick Hernandez,HOU,-0.2
+585,2025,Jesse Hahn,SEA,-0.2
+625,2025,Codi Heuer,- - -,-0.2
+649,2025,Payton Tolle,BOS,-0.2
+718,2025,Craig Yoho,MIL,-0.2
+729,2025,Bruce Zimmermann,MIL,-0.2
+753,2025,Cam Sanders,PIT,-0.2
+757,2025,Cionel Perez,BAL,-0.2
+774,2025,Kyle Nelson,ARI,-0.2
+786,2025,Nate Pearson,CHC,-0.2
+789,2025,Anthony Misiewicz,MIN,-0.2
+797,2025,J.P. Feyereisen,- - -,-0.2
+798,2025,Tyler Zuber,- - -,-0.2
+800,2025,Wander Suero,ATL,-0.2
+803,2025,Anthony Maldonado,ATH,-0.2
+804,2025,Troy Taylor,SEA,-0.2
+805,2025,Rolddy Munoz,ATL,-0.2
+808,2025,Miguel Rojas,LAD,-0.2
+817,2025,Forrest Whitley,- - -,-0.2
+833,2025,Jose Corniell,TEX,-0.2
+846,2025,Connor Thomas,MIL,-0.2
+848,2025,Geoff Hartlieb,- - -,-0.2
+541,2025,Walker Buehler,- - -,-0.3
+635,2025,Zach Eflin,BAL,-0.3
+222,2025,Chris Flexen,CHC,-0.3
+604,2025,Andrew Heaney,- - -,-0.3
+374,2025,Yuki Matsui,SDP,-0.3
+607,2025,Connor Brogdon,LAA,-0.3
+444,2025,Ryan Pressly,CHC,-0.3
+506,2025,Trent Thornton,SEA,-0.3
+534,2025,Kaleb Ort,HOU,-0.3
+548,2025,Richard Fitts,BOS,-0.3
+627,2025,Thomas Hatch,- - -,-0.3
+435,2025,Cole Henry,WSN,-0.3
+545,2025,Seth Halvorsen,COL,-0.3
+651,2025,Juan Burgos,- - -,-0.3
+727,2025,Travis Adams,MIN,-0.3
+782,2025,Blade Tidwell,NYM,-0.3
+578,2025,Sean Reynolds,SDP,-0.3
+633,2025,Garrett McDaniels,LAA,-0.3
+643,2025,Jose Leclerc,ATH,-0.3
+708,2025,Orlando Ribalta,WSN,-0.3
+715,2025,Sawyer Gipson-Long,DET,-0.3
+721,2025,McCade Brown,COL,-0.3
+724,2025,Victor Mederos,LAA,-0.3
+741,2025,Ryan Fernandez,STL,-0.3
+746,2025,Sam Aldegheri,LAA,-0.3
+750,2025,Tanner Houck,BOS,-0.3
+755,2025,Roddery Munoz,STL,-0.3
+761,2025,Richard Lovelady,- - -,-0.3
+769,2025,Jesse Chavez,ATL,-0.3
+784,2025,Zach Brzykcy,WSN,-0.3
+790,2025,Joey Estes,ATH,-0.3
+806,2025,Eli Morgan,CHC,-0.3
+818,2025,Michel Otanez,ATH,-0.3
+830,2025,Tom Harrington,PIT,-0.3
+834,2025,Javier Sanoja,MIA,-0.3
+845,2025,Chase Petty,CIN,-0.3
+451,2025,Jeff Hoffman,TOR,-0.4
+620,2025,Jake Irvin,WSN,-0.4
+529,2025,Tim Herrin,CLE,-0.4
+278,2025,Daysbel Hernandez,ATL,-0.4
+719,2025,Josh Simpson,MIA,-0.4
+503,2025,John King,STL,-0.4
+549,2025,Carson Whisenhunt,SFG,-0.4
+582,2025,Sam Long,KCR,-0.4
+756,2025,Jordan Romano,PHI,-0.4
+565,2025,Alek Jacob,SDP,-0.4
+674,2025,Gunnar Hoglund,ATH,-0.4
+684,2025,Zach Agnos,COL,-0.4
+735,2025,Jon Gray,TEX,-0.4
+810,2025,Ryan Loutos,- - -,-0.4
+675,2025,Caden Dana,LAA,-0.4
+728,2025,Austin Gomber,COL,-0.4
+794,2025,Joe La Sorsa,CIN,-0.4
+825,2025,Zach Pop,- - -,-0.4
+831,2025,Chayce McDermott,BAL,-0.4
+279,2025,Keegan Akin,BAL,-0.5
+623,2025,Jackson Rutledge,WSN,-0.5
+464,2025,Jose Fermin,LAA,-0.5
+601,2025,Scott Blewett,- - -,-0.5
+460,2025,Konnor Pilkington,WSN,-0.5
+632,2025,Kevin Kelly,TBR,-0.5
+681,2025,Beau Brieske,DET,-0.5
+705,2025,Shinnosuke Ogasawara,WSN,-0.5
+793,2025,Shaun Anderson,LAA,-0.5
+822,2025,Lucas Sims,WSN,-0.5
+426,2025,Jonathan Loaisiga,NYY,-0.5
+658,2025,Jorge Alcala,- - -,-0.5
+686,2025,Bryse Wilson,CHW,-0.5
+706,2025,Colin Holderman,PIT,-0.5
+759,2025,Eduardo Salazar,WSN,-0.5
+785,2025,Elvin Rodriguez,- - -,-0.5
+816,2025,Alex Carrillo,NYM,-0.5
+821,2025,Didier Fuentes,ATL,-0.5
+832,2025,Joe Mantiply,ARI,-0.5
+511,2025,Ryan Zeferjahn,LAA,-0.6
+373,2025,Carlos Vargas,SEA,-0.6
+699,2025,Jack Kochanowicz,LAA,-0.6
+603,2025,Cam Booser,CHW,-0.6
+631,2025,Osvaldo Bido,ATH,-0.6
+665,2025,Porter Hodge,CHC,-0.6
+514,2025,Carson Seymour,SFG,-0.6
+652,2025,Scott Alexander,- - -,-0.6
+717,2025,Anthony Molina,COL,-0.6
+747,2025,Tayler Scott,- - -,-0.6
+754,2025,Alexis Diaz,- - -,-0.6
+767,2025,Austin Cox,ATL,-0.6
+768,2025,Carson Palmquist,COL,-0.6
+835,2025,Kyle Gibson,BAL,-0.6
+758,2025,George Soriano,MIA,-0.7
+562,2025,Anthony DeSclafani,ARI,-0.7
+707,2025,Ryan Rolison,COL,-0.7
+710,2025,Angel Chivilli,COL,-0.7
+788,2025,Luis Peralta,COL,-0.7
+843,2025,Noah Davis,- - -,-0.7
+648,2025,Bowden Francis,TOR,-0.8
+609,2025,Chad Green,TOR,-0.9
+669,2025,Nestor Cortes,- - -,-0.9
+680,2025,Genesis Cabrera,- - -,-0.9
+787,2025,Bradley Blalock,COL,-1.0
