@@ -25,7 +25,8 @@ Data is sourced using the `pybaseball` library and processed using Python for an
 - Analyze team performance trends over multiple seasons  
 - Evaluate the relationship between **run differential and wins**  
 - Compare team performance using **WAR across the league**  
-- Identify how elite teams compare to league averages  
+- Identify how elite teams compare to league averages
+- Regression analysis shows a strong positive relationship between run differential and total wins, reinforcing run differential as a predictive performance metric. 
 
 ---
 
