@@ -16,7 +16,8 @@ Data is sourced using the `pybaseball` library and processed using Python for an
 - Pandas  
 - NumPy  
 - Matplotlib  
-- pybaseball  
+- pybaseball
+- Tableau  
 
 ---
 
